@@ -20,7 +20,6 @@
       "name": "🌈闲鱼号【资源宝藏库】",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "http://vip.bhh.indevs.in/pmdvox.jar",
       "searchable": 0,
       "changeable": 1,
       "timeout": 60,
