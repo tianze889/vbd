@@ -2,11 +2,11 @@
   "wallpaper": "https://ogogogg.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar",
-  "warningText": "📢软件由资源宝藏库开发维护",
+  "warningText": "📢软件由资源宝藏库制作维护",
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "📢资源宝藏库开发维护-全网高清影视免费看",
+      "name": "📢资源宝藏库制作维护-全网高清影视免费看！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -33,7 +33,7 @@
     },
         {
       "key": "橘皮",
-      "name": "💡橘皮｜影视",
+      "name": "🍊橘皮蓝光秒播",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
@@ -42,22 +42,17 @@
     },
     {
       "key": "柠檬",
-      "name": "💡柠檬｜影视",
+      "name": "🍋柠檬4K影视",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
       "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-    {
-      "key": "荐片",
-      "name": "💡荐片｜影视",
-      "api": "csp_JianPian",
-      "type": 3
-    },
+
     {
       "key": "热播影视",
-      "name": "💡热播｜影视",
+      "name": "🌞热播4K秒播",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -69,7 +64,7 @@
     },
     {
       "key": "农民影视",
-      "name": "💡农民｜影视",
+      "name": "💡农民蓝光高清",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
@@ -158,6 +153,12 @@
       "playerType": 1,
       "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+        {
+      "key": "荐片",
+      "name": "💡荐片｜影视",
+      "api": "csp_JianPian",
+      "type": 3
     },
     {
       "key": "巧技二",
@@ -455,200 +456,14 @@
         ]
       }
     },
-    {
-      "key": "蜡笔",
-      "name": "❤蜡笔｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.labi88.sbs",
-          "https://feimao666.fun",
-          "http://feimao888.fun"
-        ]
-      }
-    },
-    {
-      "key": "至臻",
-      "name": "❤至臻｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
-        ]
-      }
-    },
-    {
-      "key": "多多",
-      "name": "❤多多｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      }
-    },
-    {
-      "key": "木偶",
-      "name": "❤木偶｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      }
-    },
-    {
-      "key": "虎斑",
-      "name": "❤虎斑｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://103.45.162.207:20720"
-        ]
-      }
-    },
-    {
-      "key": "盘搜",
-      "name": "❤盘搜｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "夸克盘搜",
-      "name": "❤夸父｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "quark"
-      }
-    },
-    {
-      "key": "UC盘搜",
-      "name": "❤优夕｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "uc"
-      }
-    },
-    {
-      "key": "百度盘搜",
-      "name": "❤肚盘｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "baidu"
-      }
-    },
-    {
-      "key": "阿里云盘",
-      "name": "❤我的｜阿离",
-      "type": 3,
-      "api": "csp_PanAli",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/aliShare.json"
-    },
-    {
-      "key": "夸克云盘",
-      "name": "❤我的｜夸父",
-      "type": 3,
-      "api": "csp_PanQuark",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/quarkShare.json"
-    },
-    {
-      "key": "UC",
-      "name": "❤我的｜优夕",
-      "type": 3,
-      "api": "csp_PanUc",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/ucShare.json"
-    },
-    {
-      "key": "百度云盘",
-      "name": "❤我的｜肚盘",
-      "type": 3,
-      "api": "csp_PanBaiDu",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
+
     {
       "key": "养生堂",
       "name": "🧿养生｜知识",
       "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/XBPQ.jar",
       "api": "csp_XBPQ",
-      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/养生堂.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -659,7 +474,7 @@
       "name": "🧿永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/XBPQ.jar",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -672,7 +487,7 @@
       "name": "🧿农民｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/XBPQ.jar",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -685,7 +500,7 @@
       "name": "🧿布卡｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/XBPQ.jar",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -699,7 +514,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5"
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/XBPQ.jar"
     },
     {
       "key": "哔️软件",
@@ -1199,20 +1014,6 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"
-    },
-    {
-      "key": "豆瓣3",
-      "name": "📢接口软件永远免费",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "豆瓣4",
-      "name": "📢长期维护切勿贩卖",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     }
   ],
   "parses": [
