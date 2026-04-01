@@ -2,11 +2,11 @@
   "wallpaper": "https://ogogogg.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar",
-  "warningText": "ogogogg提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+  "warningText": "📢软件由资源宝藏库开发维护",
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "📢资源宝藏库-全网高清影视免费看",
+      "name": "📢资源宝藏库开发维护-全网高清影视免费看",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -30,6 +30,24 @@
         "type": "rect",
         "ratio": 1.597
       }
+    },
+        {
+      "key": "橘皮",
+      "name": "💡橘皮｜影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+    },
+    {
+      "key": "柠檬",
+      "name": "💡柠檬｜影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "荐片",
@@ -131,31 +149,14 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "橘皮",
-      "name": "💡橘皮｜影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
-    {
-      "key": "柠檬",
-      "name": "💡柠檬｜影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
+
     {
       "key": "剧评",
       "name": "💡剧评┃影视",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
@@ -164,7 +165,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
@@ -173,7 +174,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
