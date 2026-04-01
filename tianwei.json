@@ -1,7 +1,7 @@
 {
     "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/tvkj.jar",
     "warningText": "软件由资源宝藏库开发维护。",
-    "logo": "https://bitbucket.org/guot55/ygbh/raw/main/pro/1.gif",
+  
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "lives": [
     {
@@ -42,15 +42,7 @@
             "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/live2vod.js",
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/feimaolive.json"
         },
-                 {
-            "key": "还行",
-            "name": "💎宝盒蓝光4K",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://m51.gotto.top/api.php/v1.vod"
-        },
+               
          {
             "key": "云播影视",
             "name": "🌥️云播高清影视",
