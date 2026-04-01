@@ -1,19 +1,19 @@
 {
   "wallpaper": "https://ogogogg.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-  "spider": "https://ogogogg.v.nxog.top/m/jar?id=index;md5;36983578d542cfb8a90a5e911297964a",
+  "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar",
   "warningText": "ogogogg提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "📢ogogogg",
+      "name": "📢资源宝藏库-全网高清影视免费看",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "config",
-      "name": "🐲歌配置｜中心",
+      "name": "🐲配置｜中心",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
       "api": "csp_Config",
@@ -29,69 +29,6 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
-      }
-    },
-    {
-      "key": "csp_wogg1",
-      "name": "🐲玩歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/99a8688790a84bc34e00f00082776fd7.jpg;md5;95d710fd96c41285f275b40ee4272a75",
-      "ext": {
-        "site_urls": [
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz",
-          "https://woog.装歌.de5.net",
-          "https://ogkk.nxog.fun"
-        ],
-        "url_key": "wogg1",
-        "threadinfo": {
-          "chunksize": 421,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "csp_woog2",
-      "name": "🐲装歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
-      "ext": {
-        "site_urls": [
-          "https://ogkk.nxog.fun",
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.430520.xyz",
-          "https://ogkk.装歌.de5.net",
-          "https://woog.430520.xyz"
-        ],
-        "url_key": "woog2",
-        "threadinfo": {
-          "chunksize": 401,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "夸快夸快",
-      "name": "❤夸快｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.nxog.fun",
-          "https://woog.歌.de5.net"
-        ]
       }
     },
     {
