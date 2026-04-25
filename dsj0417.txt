@@ -129,26 +129,23 @@ NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&strea
 好莱坞电影,https://v.iill.top/api/Hollywood-Movie/index.m3u8
 
 🇨🇳港台测试,#genre#
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/GeWKr
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://r.jdshipin.com/jUx8K
-TVBPlus,http://r.jdshipin.com/Nr5jq
-TVB Plus,http://r.jdshipin.com/ndGgS
-无线新闻台,http://r.jdshipin.com/CkuBd
-TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,http://r.jdshipin.com/Voac4
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-HOY77,http://r.jdshipin.com/sFw4S
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://play-agora.zmylschool.com/live/HZvZxcheOtbkdksbYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
+翡翠台,https://cdn6.163189.xyz/163189/fct
+明珠台,http://play-agora.zmylschool.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5PkdksbH9BhEE7d6usSBcnv4Ar.flv
+TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,https://smt2.1678520.xyz/smt3.2.1.php?id=j2_twn
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
+TVB星河,https://cdn6.163189.xyz/163189/tvbxh
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+HOY77,https://cdn6.163189.xyz/163189/hoy
+澳视澳门,https://cdn6.163189.xyz/163189/asam
+澳视卫星,https://cdn6.163189.xyz/163189/as
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
