@@ -381,6 +381,35 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 天映经典,http://cdn10.163189.xyz/163189/ccm
 
 港湾,#genre#
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+TVB戏剧,http://iptv.4666888.xyz/iptv2A.php?id=33
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+TVB Plus,http://67.220.67.246:2347/livehttpplay?channel_id=30023
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+ROCK,http://iptv.4666888.xyz/iptv2A.php?id=50
+MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+美亚电影,http://67.220.67.246:2347/livehttpplay?channel_id=20197
+ASTRO AEC,http://67.220.67.246:2347/livehttpplay?channel_id=20703
+ASTRO AOD,http://67.220.67.246:2347/livehttpplay?channel_id=20707
+ASTRO QJ,http://67.220.67.246:2347/livehttpplay?channel_id=20704
+ASTRO欢喜台,http://67.220.67.246:2347/livehttpplay?channel_id=20705
+纬来电影,http://67.220.67.246:2347/livehttpplay?channel_id=20199
+纬来综合,http://67.220.67.246:2347/livehttpplay?channel_id=20201
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+NOW财经台,http://67.220.67.246:2347/livehttpplay?channel_id=13000
+Now爆谷台,http://67.220.67.246:2347/livehttpplay?channel_id=13002
+VIUTV 6,http://67.220.67.246:2347/livehttpplay?channel_id=30033
+
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
