@@ -4660,6 +4660,48 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?
 北京生活,http://114.242.62.109:888/hls/23/index.m3u8
 北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
 北京财经,http://114.242.62.109:888/hls/21/index.m3u8
+北京卫视,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.241:8000
+北京新闻,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.159:8000
+北京影视,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.158:8000
+北京文艺,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.242:8000
+北京财经,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.116:8000
+北京生活,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.117:8000
+北京纪实科教,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.115:8000
+北京卡酷少儿,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.189:8000
+北京体育休闲,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.243:8000
+北京国际频道,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.235:8000
+朝阳融媒,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.163:8001
+通州融媒,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.221:8001
+密云电视台,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.154:8001
+延庆电视台,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.187:8001
+房山电视台,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.96:8001
+IPTV 淘剧场,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.95:8001
+IPTV 淘娱乐,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.100:8001
+IPTV 淘Baby,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.238:8001
+IPTV 萌宠TV,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.102:8001
+IPTV 4K超清,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.249:8001
+IPTV 淘电影,http://bj-zb-lt.sohu.blog:4000/rtp/239.3.1.250:8001
+北京卫视,http://114.254.185.98:8099/rtp/239.3.1.241:8000
+北京新闻,http://114.254.185.98:8099/rtp/239.3.1.159:8000
+北京影视,http://114.254.185.98:8099/rtp/239.3.1.158:8000
+北京文艺,http://114.254.185.98:8099/rtp/239.3.1.242:8000
+北京财经,http://114.254.185.98:8099/rtp/239.3.1.116:8000
+北京生活,http://114.254.185.98:8099/rtp/239.3.1.117:8000
+北京纪实科教,http://114.254.185.98:8099/rtp/239.3.1.115:8000
+北京卡酷少儿,http://114.254.185.98:8099/rtp/239.3.1.189:8000
+北京体育休闲,http://114.254.185.98:8099/rtp/239.3.1.243:8000
+北京国际频道,http://114.254.185.98:8099/rtp/239.3.1.235:8000
+朝阳融媒,http://114.254.185.98:8099/rtp/239.3.1.163:8001
+通州融媒,http://114.254.185.98:8099/rtp/239.3.1.221:8001
+密云电视台,http://114.254.185.98:8099/rtp/239.3.1.154:8001
+延庆电视台,http://114.254.185.98:8099/rtp/239.3.1.187:8001
+房山电视台,http://114.254.185.98:8099/rtp/239.3.1.96:8001
+IPTV 淘剧场,http://114.254.185.98:8099/rtp/239.3.1.95:8001
+IPTV 淘娱乐,http://114.254.185.98:8099/rtp/239.3.1.100:8001
+IPTV 淘Baby,http://114.254.185.98:8099/rtp/239.3.1.238:8001
+IPTV 萌宠TV,http://114.254.185.98:8099/rtp/239.3.1.102:8001
+IPTV 4K超清,http://114.254.185.98:8099/rtp/239.3.1.249:8001
+IPTV 淘电影,http://114.254.185.98:8099/rtp/239.3.1.250:8001
 
 广东频道,#genre#
 广东珠江,https://cdn2.163189.xyz/163189/gdzj
@@ -4667,6 +4709,8 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://net.manyee.net:18888/rtp/239.77.0.112:5146
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=b12257737dcebc4227bca82b77af650c&txTime=1956eaafce4
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
