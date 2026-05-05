@@ -3992,7 +3992,7 @@ Han国动作片,https://isus.cc/php/huya.php?id=11352884
 学不会系列,https://isus.cc/php/huya.php?id=11352945
 误杀3,https://isus.cc/php/huya.php?id=880219
 
-📽️电视剧场_8657,#genre#
+📽️电影剧场_8657,#genre#
 亮剑电视轮播,http://cfss.cc/cdn/huya/30080238.flv
 雪豹电视轮播,http://cfss.cc/cdn/huya/29580970.flv
 寻秦记播频道,http://cfss.cc/cdn/huya/29465848.flv
