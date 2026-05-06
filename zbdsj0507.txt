@@ -713,7 +713,7 @@ CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 厦门卫视,http://112.123.243.37:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 
-🛒付费频道(捐5元获取密码)_8657,#genre#
+🛒付费频道,#genre#
 鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰HK,https://cdn6.163189.xyz/163189/fhhk
