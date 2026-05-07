@@ -1577,41 +1577,37 @@ CCTV13,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/397582/live_222103174_4
 
 
 📺央视频道,#genre#
-CCTV-1综合,http://m.061899.xyz/mg/cctv1
-CCTV-2财经,http://m.061899.xyz/mg/cctv2
-CCTV-3综艺,http://m.061899.xyz/mg/cctv3
-CCTV-4中文国际,http://m.061899.xyz/mg/cctv4
-CCTV-4美洲,http://m.061899.xyz/mg/cctv4m
-CCTV-4欧洲,http://m.061899.xyz/mg/cctv4o
-CCTV-5体育,http://m.061899.xyz/mg/cctv5
-CCTV-5+体育赛事,http://m.061899.xyz/mg/cctv5p
-CCTV-6电影,http://m.061899.xyz/mg/cctv6
-CCTV-7国防军事,http://m.061899.xyz/mg/cctv7
-CCTV-8电视剧,http://m.061899.xyz/mg/cctv8
-CCTV-9纪录,http://m.061899.xyz/mg/cctv9
-CCTV-10科教,http://m.061899.xyz/mg/cctv10
-CCTV-11戏曲,http://m.061899.xyz/mg/cctv11
-CCTV-12社会与法,http://m.061899.xyz/mg/cctv12
-CCTV-13新闻,http://m.061899.xyz/mg/cctv13
-CCTV-14少儿,http://m.061899.xyz/mg/cctv14
-CCTV-15音乐,http://m.061899.xyz/mg/cctv15
-CCTV-16奥运,http://m.061899.xyz/mg/cctv16
-CCTV-17农业农村,http://m.061899.xyz/mg/cctv17
-CHC家庭影院,http://m.061899.xyz/mg/jtyy
-CHC动作电影,http://m.061899.xyz/mg/dzdy
-CHC影迷电影,http://m.061899.xyz/mg/ymdy
-CCTV发现之旅,http://m.061899.xyz/mg/fxzl
-CCTV中学生,http://m.061899.xyz/mg/zxs
-CCTV老故事,http://m.061899.xyz/mg/lgs
-CGTN,http://m.061899.xyz/mg/cgtn
-CGTN纪录,http://m.061899.xyz/mg/cgtnjl
-CCTV西班牙语,http://m.061899.xyz/mg/cgtne
-CCTV法语,http://m.061899.xyz/mg/cgtnf
-CCTV阿拉伯语,http://m.061899.xyz/mg/cgtna
-CCTV俄语,http://m.061899.xyz/mg/cgtnr
-CETV 1 中国教育,http://m.061899.xyz/mg/cetv1
-CETV 2 中国教育,http://m.061899.xyz/mg/cetv2
-CETV 4 中国教育,http://m.061899.xyz/mg/cetv4
+东南卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+东方卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8
+东方卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
+东方卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
+北京卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8
+北京卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
+天津卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226246/1.m3u8
+天津卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
+安徽卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
+山东卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8
+山东卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
+广东卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226238/1.m3u8
+广东卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
+江苏卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8
+江苏卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
+江苏卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
+江西卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
+河北卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+浙江卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226247/1.m3u8
+浙江卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
+浙江卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
+深圳卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226245/1.m3u8
+深圳卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
+湖北卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8
+湖北卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
+湖南卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
+贵州卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+辽宁卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+黑龙江卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8
+黑龙江卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
+中国教育1,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
 
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
