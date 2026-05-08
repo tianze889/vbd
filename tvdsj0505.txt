@@ -751,6 +751,7 @@ mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=98
 天映经典,http://iptv.4666888.xyz/iptv2A.php?id=78
 
 🏀咪咕体育,#genre#
+咪咕直播-1,http://36.158.153.151/wh7f454c46tw2685790020_-1382757937/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3&version=1.0&owaccmark=3000000001000005308&owchid=FifastbLive&owsid=9508741778205091395&AuthInfo=d59wocLCvXXU9Kjp94biKo6pdj2rcq8ekQdpnM%2FrjStVe8%2BVK6TvmoF5Z4MMYlj5yCO3%2Fp2Qyf0l%2Fe%2BZWvl59Q%3D%3D&IASHttpSessionId=RR2031620260508015131556656&icpid=1&RTS=1778205045&from=2&hms_devid=24338&online=1778205045&vqe=3
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
 咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
 咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
