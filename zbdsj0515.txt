@@ -1653,9 +1653,32 @@ CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 
-🏞️4K超清频道(捐赠5元获取密码)_8657,#genre#
+🏞️4K超清频道,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
+CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
+湖南4K,http://rihou.cc:555/tv/湖南卫视4K
+江苏4K,http://rihou.cc:555/tv/江苏卫视4K
+浙江4K,http://rihou.cc:555/tv/浙江卫视4K
+深圳4K,http://rihou.cc:555/tv/szws
+北京4K,http://rihou.cc:555/tv/北京卫视4K
+广东4K,http://rihou.cc:555/tv/广东卫视4K
+四川4K,http://rihou.cc:555/tv/四川卫视4K
+山东4K,http://rihou.cc:555/tv/山东卫视
+河南4K,http://rihou.cc:555/tv/河南卫视4K
+东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+北京4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
