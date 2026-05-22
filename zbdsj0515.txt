@@ -3981,6 +3981,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 
 重庆频道,#genre#
+重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
