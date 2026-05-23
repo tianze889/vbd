@@ -476,7 +476,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-🇨🇳港港综合,#genre#
+🇨🇳港台综合,#genre#
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 世纪综合,http://61.58.60.230:9319/live/49.m3u8
 国会频道,http://61.58.60.230:9319/live/123.m3u8
@@ -2098,9 +2098,6 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 
-
-
-
 ☀️央视付费(捐5元获取密码)_8657,#genre#
 央视精品,http://107.150.60.122/live/ysjp.m3u8
 央视精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -2322,7 +2319,7 @@ CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
-🏞️4K超清频道(捐赠5元获取密码)_8657,#genre#
+🏞️4K超清频道,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
@@ -3013,7 +3010,7 @@ Alin精选16首,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000
 滚石30周年12,https://vd4.bdstatic.com/mda-pd1fyefdw9cy4syj/sc/cae_h264/1680434683296583972/mda-pd1fyefdw9cy4syj.mp4
 滚石30周年13,https://vd4.bdstatic.com/mda-pd1pn0se84vp5e76/sc/cae_h264/1680454160874637654/mda-pd1pn0se84vp5e76.mp4
 
-🏠地方频道,#genre#
+🏠地方频道2,#genre#
 郸城新闻综合频道,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 登封新闻综合频道,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 垫江综合频道,http://125.62.24.185:80/1.m3u8
