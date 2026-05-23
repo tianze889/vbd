@@ -2466,7 +2466,7 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 大时代,http://cfss.cc/cdn/huya/23865161.flv
 笑看风云,http://cfss.cc/cdn/huya/29465858.flv
 
-🏀咪咕体育,#genre#
+🏀体育频道,#genre#
 咪咕直播1,http://36.158.153.151/wh7f454c46tw2685790020_-1382757937/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3&version=1.0&owaccmark=3000000001000005308&owchid=FifastbLive&owsid=9508741778205091395&AuthInfo=d59wocLCvXXU9Kjp94biKo6pdj2rcq8ekQdpnM%2FrjStVe8%2BVK6TvmoF5Z4MMYlj5yCO3%2Fp2Qyf0l%2Fe%2BZWvl59Q%3D%3D&IASHttpSessionId=RR2031620260508015131556656&icpid=1&RTS=1778205045&from=2&hms_devid=24338&online=1778205045&vqe=3
 咪咕直播2,http://36.158.153.151/wh7f454c46tw408117256_-1481321511/000000001000/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&version=1.0&owaccmark=3000000001000005969&owchid=FifastbLive&owsid=4489121778207108793&AuthInfo=8XulaeGBYcq7OD0XvvmkZLAcH5cAOCLAhF4decUkMRQ4rC9WwhrzK%2BDPpGhDonVw5yZJOGk8h%2B2p1IqvjW%2Fp0g%3D%3D&IASHttpSessionId=RR767520260508022508910037&icpid=1&RTS=1778207062&from=2&hms_devid=24338&online=1778207062&vqe=3
 咪咕直播3,http://36.158.153.146/wh7f454c46tw442846850_367060405/000000001000/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1&version=1.0&owaccmark=3000000001000007218&owchid=FifastbLive&owsid=8007561778207143514&AuthInfo=8XulaeGBYcq7OD0XvvmkZEw%2F9y1VMPLrEnCWIKvNFv28%2FBV2qgTAGhQUUU2xXJNWS%2BT0NPzbbrisnvcbvJ%2FyNQ%3D%3D&IASHttpSessionId=RR767520260508022542910387&icpid=1&RTS=1778207097&from=2&hms_devid=24334&online=1778207097&vqe=3
@@ -2552,6 +2552,8 @@ Big3专场,http://cfss.cc/cdn/huya/30847442.flv
 瑜伽专场,http://cfss.cc/cdn/huya/20753449.flv
 棒球专场,http://cfss.cc/cdn/huya/20072763.flv
 扇耳光专场,http://cfss.cc/cdn/huya/30631765.flv
+四海钓鱼,http://39.134.240.4/PLTV/2/224/3221226346/index.m3u8
+快乐垂钓,http://39.134.240.4/PLTV/2/224/3221226348/index.m3u8
 
 🎦影视频道,#genre#
 放映厅轮播,http://cfss.cc/cdn/huya/11602077.flv
@@ -3447,6 +3449,62 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 
 
 🏯北京频道,#genre#
+北京体育休闲,http://114.242.62.109:888/hls/22/index.m3u8
+北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
+北京国际,http://114.242.62.109:888/hls/27/index.m3u8
+北京影视,http://114.242.62.109:888/hls/20/index.m3u8
+北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
+北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
+北京生活,http://114.242.62.109:888/hls/23/index.m3u8
+北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
+北京财经,http://114.242.62.109:888/hls/21/index.m3u8
+
+北京卫视,http://123.120.135.58:4022/rtp/239.3.1.241:8000
+北京新闻,http://123.120.135.58:4022/rtp/239.3.1.159:8000
+北京影视,http://123.120.135.58:4022/rtp/239.3.1.158:8000
+北京文艺,http://123.120.135.58:4022/rtp/239.3.1.242:8000
+北京财经,http://123.120.135.58:4022/rtp/239.3.1.116:8000
+北京生活,http://123.120.135.58:4022/rtp/239.3.1.117:8000
+北京青年,http://123.120.135.58:4022/rtp/239.3.1.118:8000
+北京纪实科教,http://123.120.135.58:4022/rtp/239.3.1.115:8000
+北京卡酷少儿,http://123.120.135.58:4022/rtp/239.3.1.189:8000
+北京体育休闲,http://123.120.135.58:4022/rtp/239.3.1.243:8000
+北京国际频道,http://123.120.135.58:4022/rtp/239.3.1.235:8000
+朝阳融媒,http://123.120.135.58:4022/rtp/239.3.1.163:8001
+通州融媒,http://123.120.135.58:4022/rtp/239.3.1.221:8001
+密云电视台,http://123.120.135.58:4022/rtp/239.3.1.154:8001
+延庆电视台,http://123.120.135.58:4022/rtp/239.3.1.187:8001
+房山电视台,http://123.120.135.58:4022/rtp/239.3.1.96:8001
+IPTV 淘剧场,http://123.120.135.58:4022/rtp/239.3.1.95:8001
+IPTV 淘娱乐,http://123.120.135.58:4022/rtp/239.3.1.100:8001
+IPTV 淘Baby,http://123.120.135.58:4022/rtp/239.3.1.238:8001
+IPTV 萌宠TV,http://123.120.135.58:4022/rtp/239.3.1.102:8001
+IPTV 4K超清,http://123.120.135.58:4022/rtp/239.3.1.249:8001
+IPTV 淘电影,http://123.120.135.58:4022/rtp/239.3.1.250:8001
+
+北京卫视,http://111.199.198.198:4022/rtp/239.3.1.241:8000
+北京新闻,http://111.199.198.198:4022/rtp/239.3.1.159:8000
+北京影视,http://111.199.198.198:4022/rtp/239.3.1.158:8000
+北京文艺,http://111.199.198.198:4022/rtp/239.3.1.242:8000
+北京财经,http://111.199.198.198:4022/rtp/239.3.1.116:8000
+北京生活,http://111.199.198.198:4022/rtp/239.3.1.117:8000
+北京青年,http://111.199.198.198:4022/rtp/239.3.1.118:8000
+北京纪实科教,http://111.199.198.198:4022/rtp/239.3.1.115:8000
+北京卡酷少儿,http://111.199.198.198:4022/rtp/239.3.1.189:8000
+北京体育休闲,http://111.199.198.198:4022/rtp/239.3.1.243:8000
+北京国际频道,http://111.199.198.198:4022/rtp/239.3.1.235:8000
+朝阳融媒,http://111.199.198.198:4022/rtp/239.3.1.163:8001
+通州融媒,http://111.199.198.198:4022/rtp/239.3.1.221:8001
+密云电视台,http://111.199.198.198:4022/rtp/239.3.1.154:8001
+延庆电视台,http://111.199.198.198:4022/rtp/239.3.1.187:8001
+房山电视台,http://111.199.198.198:4022/rtp/239.3.1.96:8001
+IPTV 淘剧场,http://111.199.198.198:4022/rtp/239.3.1.95:8001
+IPTV 淘娱乐,http://111.199.198.198:4022/rtp/239.3.1.100:8001
+IPTV 淘Baby,http://111.199.198.198:4022/rtp/239.3.1.238:8001
+IPTV 萌宠TV,http://111.199.198.198:4022/rtp/239.3.1.102:8001
+IPTV 4K超清,http://111.199.198.198:4022/rtp/239.3.1.249:8001
+IPTV 淘电影,http://111.199.198.198:4022/rtp/239.3.1.250:8001
+
 北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
 北京国际,http://r.xace.fun:4999/udp/239.3.1.235:8000
 北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
@@ -3463,15 +3521,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
 北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
-北京体育休闲,http://114.242.62.109:888/hls/22/index.m3u8
-北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
-北京国际,http://114.242.62.109:888/hls/27/index.m3u8
-北京影视,http://114.242.62.109:888/hls/20/index.m3u8
-北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
-北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
-北京生活,http://114.242.62.109:888/hls/23/index.m3u8
-北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
-北京财经,http://114.242.62.109:888/hls/21/index.m3u8
+
 
 广东频道,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -4646,53 +4696,40 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
 湖南频道,#genre#
-湖南卫视,http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
-湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280
-湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221
-湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346
-湖南电视剧,http://tvbox6.icu/tv/mgtv.php?id=484
-湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261
-湖南国际,http://tvbox6.icu/tv/mgtv.php?id=229
-湖南娱乐,http://tvbox6.icu/tv/mgtv.php?id=344
-长沙新闻,http://tvbox6.icu/tv/mgtv.php?id=269
-长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254
-长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230
+湖南经视,http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
+湖南都市,http://39.134.240.4/PLTV/2/224/3221226146/index.m3u8
+湖南娱乐,http://39.134.240.4/PLTV/2/224/3221226144/index.m3u8
+湖南爱晚,http://39.134.240.4/PLTV/2/224/3221226192/index.m3u8
+湖南电视剧,http://39.134.240.4/PLTV/2/224/3221226138/index.m3u8
+湖南电影,http://39.134.240.4/PLTV/2/224/3221226140/index.m3u8
+湖南国际,http://39.134.240.4/PLTV/2/224/3221226194/index.m3u8
+金鹰纪实,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000007228
+金鹰卡通,http://39.134.240.4/PLTV/2/224/3221226142/index.m3u8
+茶频道,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000025000000316196
+先锋乒羽,http://39.134.240.4/PLTV/2/224/3221226006/index.m3u8
+湖南教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000023000000196697#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000003000000104065
+湖南导视,http://hunhhyd.sohu.blog:9999/tsfile/live/1017_1.m3u8#http://l8221706.dpdns.org/wntv.php?id=5370
+长沙新闻,http://39.134.240.4/PLTV/2/224/3221226200/index.m3u8
+长沙政法,http://39.134.240.4/PLTV/2/224/3221226202/index.m3u8
+怀化新闻综合,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000287147#http://l8221706.dpdns.org/hh.php?id=zhonghe1#http://hunhhyd.sohu.blog:9999/tsfile/live/1006_1.m3u8
+怀化经济生活,http://l8221706.dpdns.org/hh.php?id=gonggong1#http://hunhhyd.sohu.blog:9999/tsfile/live/1004_1.m3u8
+靖州综合,http://hunhhyd.sohu.blog:9999/tsfile/live/1108_1.m3u8#https://liveplay-srs.voc.com.cn/hls/tv/34_8e98cd.m3u8
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/playlist.m3u8
 黄陂新闻,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
-金鹰纪实,http://116.52.233.90:30080/01000200/01000000000000000000000001827581/index.m3u8?zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqVOSAPEKe578c6WxQ60SZ4bOOtqCUURiqT3U1aexrUdw%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219155054%2C90000001000000050000000000000425%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827581%2CEND&GuardEncType=2&Playtype=1
-湖南国际,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz04NWRiNzg4ZmJlZTc2YzIxZmYzNjE4ZWFmZDc5NmRhZiZ1aWQ9JnV1aWQ9NDg3YjE1ZWE0Y2IyM2U1N2NiZDFkZjZmYTlhNDE1ZDItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDMyNA,,/HNGJMPP360.m3u8
-湖南经视,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1hNmMyN2ZkYTUzNWQyOTgwZjRkYzBmM2JkOTU5ZTFmYiZ1aWQ9JnV1aWQ9ZGU4ZmY5MmJmMWI1MTBjNTA2OGYyOTdkODQ4NTllNTktNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDQwMw,,/HNJSMPP360.m3u8
-湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9OWFiZGJlN2QzOGRlNzcyMzVhMzU4NDg0NjlkOTZiOWYmdWlkPSZ1dWlkPWRkMDY0ZTk4OWU4MzVmOTY1ODBiYTU5ZmIzZDY3YjZmLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA0Njg,/HNDSJMPP360.m3u8
-湖南娱乐,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1kM2E1YzY2YTc5OTRmNWQzMTA5Yzc2OWJlNDhlODA2OCZ1aWQ9JnV1aWQ9NmE2MjQwYmUyYTUwZmMwYTQ5NWIxMDc5NjI4MDQzNGUtNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDI1Mg,,/HNYLMPP360.m3u8
-湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJnM9Yjc4N2NmNGI3ZjYzZGIzN2Y3ZGMwYmNjMjQ0ZWY2MWQmdWlkPSZ1dWlkPWFhZTNhYjMxNTBmYjRhZjA5YmVlYjI3Yzk0OTYwNDM3LTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODAzNDQ,/HNGGMPP360.m3u8
-湖南都市,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz03MTc3MTExNTk1ZWJhODU4NjJkNjU5MzIxYzVjMGZiOSZ1aWQ9JnV1aWQ9OTkwMTU3NTQzNWNkOGQ1YWQ1MDMzOGUyMTNkZjcwZDItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDYxNA,,/HNDSMPP360.m3u8
-茶频道,http://182.245.198.37:30080/wh7f454c46tw493166584_102347983/01000200/01000000000000000000000001827141/01.m3u8?fmt=ts2hls,221,01.m3u8,0,4499,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219155754%2C90000001000000050000000000000300%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827141%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRerOno7NgFcqrTkFK3cJcvfULRdQZorpNFjjnMnJFzbFxg%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
-先锋乒羽,http://116.52.233.90:30080/01000200/01000000000000000000000001827001/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRepuXypyyOk9R2S9QxJOHoty%2FRZNrsvefCx3kMpb1uzvxQ%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219155841%2C00000001000000050000000000000566%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827001%2CEND&GuardEncType=2&Playtype=1
-快乐垂钓,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1mNGI0NjI5ODI3NjVkY2IyYjI2MTYzYjE3ZmRlZDM1NCZ1aWQ9JnV1aWQ9YTMwMGI1NTQwYzg2NmVjODUzNjE5NjcwM2E2MmNiYWItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDY0OA,,/KLCDMPP360.m3u8
-金鹰纪实,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9ZjNkNGM3ZWZiMzJjNzc2ZGY4NGJiOGUxMzc0ZDcyZjAmdWlkPSZ1dWlkPWJiZGNjZjBmZjIzNzFkNzJkNWYxMjMyNzNiZDZlNjJkLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA4NTQ,/JYJSMPP360.m3u8
-湖南电影,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1od19waG9uZSZzPWEyNjE1OGI4MTlkMmRmOTRkYTE0YTM1ZTg5YTQ3NjJiJnVpZD0mdXVpZD0zZDVlZjM4MGFkZDU5MmUzZmU4MjA2MTY5NTYzYTEzZS03MDdlNTI1NyZ2PTImYXM9MCZlcz0xNzM5OTgwODkx/HNDYMPP360.m3u8
-长沙新闻频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9Y2VlZjdlMmYxNDcwYjc5NjI5MWRiNjlhMmEwNmNiMTQmdWlkPSZ1dWlkPTE0ZDk5ODU3OGExNGFmZDAxOTM3ZTkwMjg4NTA1YzIyLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA4MzQ,/CSXWMPP360.m3u8
-长沙政法综合,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz0zMTBhNDNjNTdhMDRjMDBhNmUyZTQ0MGY0ZmUxNWZlNCZ1aWQ9JnV1aWQ9ZmIyYjQwMTk5MTEzZTNhMGZmMmJmOTRkMTJkNDEzMzUtNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDgzNw,,/CSZFMPP360.m3u8
-湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-怀化新闻综合,http://118.251.62.158:8888/udp/239.76.248.12:1234
-常德新闻综合,http://live-cdtv.cdqmw.cn:9020/cdtvxwzh/xwzh.m3u8?auth_key=1739970528-0-0-N_FCfnLqarM0yXth01V6_A
-邵阳新闻综合,https://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=ac8d4f8b86ba75dfe5673bfb49d3563d&t=1739959818
-邵阳文旅民生,https://live2.sytv.net.cn/ggpd/ggpd/live.m3u8?sign=32ee99f33444c0a5884b7427927b19d3&t=1739952664
-郴州新闻综合,https://live.ngcz.tv/aczxw/20221028/live.m3u8?auth_key=1739960482-0-0-f4a673fe821c7ab9a49f67368f4446be
-郴州公共都市,https://live.ngcz.tv/acz/czgg20221025/live.m3u8?auth_key=1739960575-0-0-ab6b2fcb61f1dca114d7cdb42ff57d6b
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 
 上海频道,#genre#
-上海纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
-北京冬奥纪实,http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
-北京冬奥纪实,http://39.134.65.166/PLTV/88888888/224/3221225670/1.m3u8
-北京科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+万荣综合,http://60.222.246.220:19433/hls1.m3u8
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 
 海南频道,#genre#
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
