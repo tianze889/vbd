@@ -120,45 +120,6 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精彩频道,http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球频道,http://61.221.215.25:8800/hls/57/index.m3u8
 
-🎡台湾,#genre#
-1TVBS新聞台ᴴᴰ,rtmp://59.124.75.138/sat/tv551
-1東森財經新聞ᴴᴰ,rtmp://59.124.75.138/sat/tv571
-1有線18台,rtmp://59.124.75.138/sat/hk041
-1TVBS新聞ᴴᴰ,rtmp://59.124.75.138/sat/tv551
-1民視ᴴᴰ,rtmp://59.124.75.138/sat/tv051
-1台視ᴴᴰ,rtmp://59.124.75.138/sat/tv071
-1中視ᴴᴰ,rtmp://59.124.75.138/sat/tv091
-1華視ᴴᴰ,rtmp://59.124.75.138/sat/tv111
-1緯來育力ᴴᴰ,rtmp://59.124.75.138/sat/tv701
-1偉來體育ᴴᴰ,rtmp://59.124.75.138/sat/tv721
-1ELEVEN1體育,rtmp://59.124.75.138/sat/tv731
-1ELEVEN2休育,rtmp://59.124.75.138/sat/tv741
-1MoMo綜合台,rtmp://59.124.75.138/sat/tv761
-1東森超視ᴴᴰ,rtmp://59.124.75.138/sat/tv331
-1緯來日本ᴴᴰ,rtmp://59.124.75.138/sat/tv771
-1博斯運動1,rtmp://59.124.75.138/sat/md011
-1ELEVEN+體育,rtmp://59.124.75.138/sat/md031
-1ELT體育2（201台）,rtmp://59.124.75.138/sat/md041
-1ELT體育3台(202台),rtmp://59.124.75.138/sat/md051
-1愛爾達體育2台,rtmp://59.124.75.138/sat/md021
-1TVBS歡樂台ᴴᴰ,rtmp://59.124.75.138/sat/tv421
-1有線 SPORTS 1,rtmp://59.124.75.138/sat/hk011
-1NHL1體育,rtmp://59.124.75.138/sat/us011
-1NBCSN體育,rtmp://59.124.75.138/sat/us021
-1體育3,rtmp://59.124.75.138/sat/us031
-1DlERcTV4,rtmp://59.124.75.138/sat/us041
-1ENEVS,rtmp://59.124.75.138/sat/us051
-11DlERcTV7,rtmp://59.124.75.138/sat/us071
-1體育8,rtmp://59.124.75.138/sat/us081
-1ENvivo体育,rtmp://59.124.75.138/sat/us231
-1TUDN体育,rtmp://59.124.75.138/sat/us241
-1HBOnDX,rtmp://59.124.75.138/sat/us261
-1ENVY7,rtmp://59.124.75.138/sat/us271
-1SHO8,rtmp://59.124.75.138/sat/us281
-1GAORA日本体育,rtmp://59.124.75.138/sat/jp011
-124ELVE体育,rtmp://59.124.75.138/sat/jp021
-1体育3,rtmp://59.124.75.138/sat/jp031
-1BS体育,rtmp://59.124.75.138/sat/jp041
 
 Ⓜ️央视咪咕,#genre#
 CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
