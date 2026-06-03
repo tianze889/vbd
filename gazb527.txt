@@ -2778,7 +2778,7 @@ CCTV4K超高清,http://home.amucn.net:8800/udp/239.49.0.82:8000
 山东教育,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 
-🎞️轮播剧场,#genre#
+🎞️轮播剧场(捐5元获取密码)_8657,#genre#
 荒野求生其他,http://cfss.cc/cdn/huya/593667.flv
 野行者其他,http://cfss.cc/cdn/huya/20072663.flv
 跳舞其他,http://cfss.cc/cdn/huya/24634408.flv
@@ -3015,7 +3015,7 @@ CCTV4K超高清,http://home.amucn.net:8800/udp/239.49.0.82:8000
 大时代,http://cfss.cc/cdn/huya/23865161.flv
 笑看风云,http://cfss.cc/cdn/huya/29465858.flv
 
-🎦影视频道,#genre#
+🎦影视频道(捐5元获取密码)_8657,#genre#
 放映厅轮播,http://cfss.cc/cdn/huya/11602077.flv
 刘德华轮播,http://cfss.cc/cdn/huya/11342424.flv
 许冠英轮播,http://cfss.cc/cdn/huya/11601972.flv
@@ -3559,7 +3559,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 陕西卫视,http://115.52.127.45:880/CH040.m3u8
 
 
-✨明星剧场,#genre#
+✨明星剧场(捐5元获取密码)_8657,#genre#
 成龙,http://cfss.cc/cdn/huya/11342386.flv
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
 沈腾,http://cfss.cc/cdn/huya/11601968.flv
@@ -3620,7 +3620,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 亮剑,http://cfss.cc/cdn/huya/30080238.flv
 雪豹,http://cfss.cc/cdn/huya/29580970.flv
 
-🎬电影轮播,#genre#
+🎬电影轮播(捐5元获取密码)_8657,#genre#
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
 渗透电视轮播,http://cfss.cc/cdn/huya/30080244.flv
@@ -3764,7 +3764,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 学不会系列,http://cfss.cc/cdn/huya/11352945.flv
 误杀3,http://cfss.cc/cdn/huya/880219.flv
 
-📽️电视剧场,#genre#
+📽️电视剧场(捐5元获取密码)_8657,#genre#
 亮剑电视轮播,http://cfss.cc/cdn/huya/30080238.flv
 雪豹电视轮播,http://cfss.cc/cdn/huya/29580970.flv
 寻秦记播频道,http://cfss.cc/cdn/huya/29465848.flv
@@ -3895,6 +3895,19 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 科幻梦工场播,http://cfss.cc/cdn/huya/15152155.flv
 脱口秀大会肆,http://cfss.cc/cdn/huya/30080243.flv
 脱口秀大会伍,http://cfss.cc/cdn/huya/11352875.flv
+
+💎华数影院,#genre#
+华数星影,http://192.144.185.155:6000/rtp/225.1.8.254:4120$北京市电信
+华数动作影院,http://192.144.185.155:6000/rtp/225.1.8.252:4120$北京市电信
+华数喜剧影院,http://192.144.185.155:6000/rtp/225.1.8.251:4120$北京市电信
+华数家庭影院,http://192.144.185.155:6000/rtp/225.1.8.253:4120$北京市电信
+华数经典电影,http://192.144.185.155:6000/rtp/225.1.8.203:9024$北京市电信
+华数热播剧场,http://192.144.185.155:6000/rtp/225.1.8.202:9020$北京市电信
+华数军旅剧场,http://192.144.185.155:6000/rtp/225.1.8.228:4120$北京市电信
+华数城市剧场,http://192.144.185.155:6000/rtp/225.1.8.227:4120$北京市电信
+华数古装剧场,http://192.144.185.155:6000/rtp/225.1.8.229:4120$北京市电信
+华数魅力时尚,http://192.144.185.155:6000/rtp/225.1.8.204:9012$北京市电信
+华数动画,http://192.144.185.155:6000/rtp/225.1.8.240:4120$北京市电信
 
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -7733,8 +7746,6 @@ CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280001/1.m3u8?ch
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
 
 高速专享频道(捐赠5元获取密码)_6854,#genre#,DE=3
-
-
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
