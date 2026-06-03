@@ -1495,18 +1495,11 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 🇨🇳中国台湾,#genre#
-TVBS ASIA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283874
-TVBS ASIA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283901
-博斯网球,http://iptv.4666888.xyz/iptv2A.php?id=6
-东森中国台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283892
-东森卫视,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283893
-东森戏剧,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283894
-东森财经,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283895
-东森美洲,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283896
-台视新闻,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283897
-台视综合,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283891
-三立国际,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283889
-YOYO TV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283902
+中天新闻,http://rihou.cc:555/tv/中天新闻
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+镜新闻,http://rihou.cc:555/tv/镜新闻
+民视新闻,http://rihou.cc:555/tv/民视新闻
+中视新闻卡http://rihou.cc:555/tv/中视新闻 
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
