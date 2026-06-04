@@ -180,6 +180,20 @@ RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
 广州综合,http://rihou.cc:555/tv/[Cx]广州综合
 广州新闻,http://rihou.cc:555/tv/[Cx]广州新闻
 广州南国,http://rihou.cc:555/tv/[Cx]广州南国
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+CCTV-1綜合,http://bziyunshao.synology.me:8892/bysid/33
+CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 
 🇨🇳港台最新,#genre#
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
@@ -399,58 +413,6 @@ My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
 DreamWorks,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精選動漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戲,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
-明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
-TVB Plus,https://hls.163189.xyz/163189/a2beac471af96802
-黃金華劇台,https://hls.163189.xyz/163189/71fb62ece10887e8
-TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
-纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
-纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
-纬来体育台,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
-龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
-东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
-TVB Jade HD,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbjade
-明珠台,https://smt2.1678520.xyz/smt3.2.1.php?id=pearl_twn
-TVB星河,https://smt2.1678520.xyz/smt3.2.1.php?id=Xinhe
-千禧經典台,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-娛樂新聞台,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-ViuTV,https://smt2.1678520.xyz/smt3.2.1.php?id=viu1_twn
-ViuTVsix,https://smt2.1678520.xyz/smt3.2.1.php?id=viusix_twn
-HOY78,https://smt2.1678520.xyz/smt3.2.1.php?id=hoycaijing_twn
-凤凰中文,https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰香港,https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-美亞電影台,https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-天映经典,https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial2
-AOD,https://smt2.1678520.xyz/smt3.2.1.php?id=Aodhd
-AEC,https://smt2.1678520.xyz/smt3.2.1.php?id=AEC
-iQIYI,https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
-HUA HEE DAI,https://smt2.1678520.xyz/smt3.2.1.php?id=Huahee
-纬来电影台,https://smt2.1678520.xyz/smt3.2.1.php?id=videolandmovie
-无线新闻台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283852
-明珠台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163933
-TVBe无线娱乐新闻,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283859
-TVBJ1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283850
-TVB1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283867
-TVB1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283851
-TVB DRAMA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283860
-千禧经典台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163927
-凤凰中文,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163868
-凤凰资讯,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283854
-凤凰美洲台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283869
-Astro欢喜台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163678
-CNA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163743
-Channel 8,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236993
-Channel U,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236999
-FAIRCHILD 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1256694
-FAIRCHILD 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1160322
-天下衛視 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283898
-天下衛視 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283899
-汉天卫视 USA HTTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283890
-美國城市衛視ICITI,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283900
-1905电影网A,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905电影网A,http://php.jdshipin.com/1905.php
 1905电影网B,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://m.061899.xyz/mg/dzdy
@@ -466,20 +428,14 @@ CHC影迷电影,http://m.061899.xyz/mg/ymdy
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏动作,https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-邵氏武侠,https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏喜剧,https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 重温经典,http://m.061899.xyz/mg/cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
