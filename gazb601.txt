@@ -134,6 +134,7 @@ CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 
+
 ☀️特区新闻☀️,#genre#
 有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 有线新闻,http://rihou.cc:555/tv/[Hk]有线新闻
@@ -151,6 +152,7 @@ Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+CCTV13,http://129.211.14.102:22226/22142427/
 Now星影,http://rihou.cc:555/tv/[Bx]Now星影
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 好莱电影,http://rihou.cc:555/tv/[Hk]好莱电影
