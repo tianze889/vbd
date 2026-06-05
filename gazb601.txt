@@ -4393,7 +4393,6 @@ Astro Badminton,https://stream1.freetv.fun/astro-badminton--wj-1.ctv
 东莞新闻频道,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&ttl=3600&key=427e13368d7e4211bb3f1f6432084b3f
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&ttl=3600&key=2fad2b96c81c38c8e6b189c552c0f8ca
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-汕头综合,http://lsa.familyds.com:8188/udp/239.253.43.45:5146
 汕头综合,http://www.maomizi.cn:9527/udp/239.253.43.45:5146
 汕头综合,http://plex.cyruslee.top:8888/udp/239.253.43.45:5146
 汕头综合,http://ikuai.cyruslee.top:8888/udp/239.253.43.45:5146
@@ -4403,8 +4402,6 @@ Astro Badminton,https://stream1.freetv.fun/astro-badminton--wj-1.ctv
 汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
 汕头综合,http://pr.19760929.xyz:9688/rtp/239.77.1.130:5146
 汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
-汕头经济生活,http://www.3344.uk:8888/udp/239.253.43.46:5146
-汕头经济生活,http://plex.cyruslee.top:8888/udp/239.253.43.46:5146
 汕头经济生活,http://hongzhijiaoyu.net:8188/udp/239.253.43.46:5146
 汕头经济生活,http://www.syy3.top:3861/udp/239.253.43.46:5146
 汕头经济生活,http://www.maomizi.cn:9527/udp/239.253.43.46:5146
