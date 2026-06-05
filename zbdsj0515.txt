@@ -3457,8 +3457,14 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 东莞新闻频道,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&ttl=3600&key=427e13368d7e4211bb3f1f6432084b3f
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&ttl=3600&key=2fad2b96c81c38c8e6b189c552c0f8ca
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-汕头1,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
-汕头2,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+汕头综合,https://stream1.freetv.fun/dd32f6d2ef2242ba2c4fcfb92531fa34b0fe4cdcedbacd33bfac1f47d60978ad.ctv
+汕头经济生活,https://stream1.freetv.fun/f9a98e499e8ca7f86379b3a1324172f7094b0209bf2ccd97294e45cdf2ed0a7b.ctv
+汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
+汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+汕头综合,http://pr.19760929.xyz:9688/rtp/239.77.1.130:5146
+汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
+汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.77.1.131:5146
+汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
 
 广东珠江,http://pr.19760929.xyz:9688/rtp/239.77.0.114:5146
 广东新闻,http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
@@ -3493,10 +3499,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 佛山城市生活,http://pr.19760929.xyz:9688/rtp/239.253.43.53:5146
 佛山顺德,http://pr.19760929.xyz:9688/rtp/239.253.43.55:5146
 江门综合,http://pr.19760929.xyz:9688/rtp/239.77.0.201:5146
-汕头综合,http://pr.19760929.xyz:9688/rtp/239.77.1.130:5146
-汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
-汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.77.1.131:5146
-汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+
 汕尾新闻综合,http://pr.19760929.xyz:9688/rtp/239.77.0.25:5146
 汕尾文化生活,http://pr.19760929.xyz:9688/rtp/239.77.0.187:5146
 揭阳综合,http://pr.19760929.xyz:9688/rtp/239.77.0.229:5146
