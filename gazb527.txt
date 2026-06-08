@@ -721,6 +721,9 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 TVB Plus,http://67.220.67.246:2347/livehttpplay?channel_id=30023
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+
+
 美亚电影,http://67.220.67.246:2347/livehttpplay?channel_id=20197
 ASTRO AEC,http://67.220.67.246:2347/livehttpplay?channel_id=20703
 ASTRO AOD,http://67.220.67.246:2347/livehttpplay?channel_id=20707
