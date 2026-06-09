@@ -633,7 +633,7 @@ HOY77,http://r.jdshipin.com/sFw4S
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 美国城市,http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
 美国城市,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
-东森中国,http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
+东森中国台,http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 汉天卫视,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
@@ -1338,8 +1338,6 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 Now新闻,https://cdn.163189.xyz/163189/now
-寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
-民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 东森新闻,http://211.72.174.95:8138/0.ts
