@@ -112,6 +112,15 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://j.s.bkpcp.top/js/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
+TVBS,https://t.freetv.fun/live/tvbs.m3u8
+TVBS,https://t.freetv.fun/live/tvbs-asia.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
+中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
+中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
+中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳门Macau,https://cdn6.163189.xyz/163189/as
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
