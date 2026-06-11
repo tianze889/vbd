@@ -212,6 +212,15 @@ CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视卫星,http://r.jdshipin.com/QFhCq
+TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
+TVBS,https://t.freetv.fun/live/tvbs.m3u8
+TVBS,https://t.freetv.fun/live/tvbs-asia.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
+中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
+中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
+中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 八度空间,http://cdn6.163189.xyz/163189/8tv
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 翡翠台,https://cdn6.163189.xyz/163189/fct
