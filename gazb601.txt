@@ -8046,7 +8046,7 @@ JYTVHD,http://ddns.xryo.cn:8888/rtp/239.111.205.107:5140
 西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 
-🏝️西藏频道
+🏝️西藏频道,#genre#
 西藏影视文化,http://121.199.48.54/live1/xztv.m3u8?id=xzys&app=com.canghaitv.tvbox&version=1.0.1&mac=l1:1l:l1:1l:l1:1l&nwtime=1781447341&sign=c567d02bf0c024f585ed57ce5e5773d7&ev=20260214
 拉萨汉语综合,http://tvapi.canghaitv.com/api/diyp.php?ch=%E6%8B%89%E8%90%A8%E6%B1%89%E8%AF%AD%E7%BB%BC%E5%90%88
 拉萨藏语综合,http://tvapi.canghaitv.com/api/diyp.php?ch=%E6%8B%89%E8%90%A8%E8%97%8F%E8%AF%AD%E7%BB%BC%E5%90%88
