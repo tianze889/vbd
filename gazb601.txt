@@ -8046,6 +8046,13 @@ JYTVHD,http://ddns.xryo.cn:8888/rtp/239.111.205.107:5140
 西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 
+🏝️西藏频道
+拉萨汉语综合,http://tvapi.canghaitv.com/api/diyp.php?ch=%E6%8B%89%E8%90%A8%E6%B1%89%E8%AF%AD%E7%BB%BC%E5%90%88
+拉萨藏语综合,http://tvapi.canghaitv.com/api/diyp.php?ch=%E6%8B%89%E8%90%A8%E8%97%8F%E8%AF%AD%E7%BB%BC%E5%90%88
+
+
+
+
 🛖内蒙古频道,#genre#
 内蒙蒙语1,http://play1-qk.nmtv.cn/live/2315general.m3u8
 内蒙蒙语2,http://play1-qk.nmtv.cn/live/2321general.m3u8
