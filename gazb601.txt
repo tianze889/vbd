@@ -136,6 +136,8 @@ CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 
 
 ☀️特区新闻☀️,#genre#
+now331,https://ewcdn102.nowe.com/session/10-0b1a14f6ca5a568c2ac220811fc4d/Content/DASH_VOS3/Live/channel(VOS_CH331)/1774232839126item-01item_init.m4i
+now332,https://ewcdn03.nowe.com/session/10-78ae2dbdb65f8c9ae5bf5d9438245/Content/DASH_VOS3/Live/channel(VOS_CH332N)/1757402450709item-04item_init.m4i
 有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 有线新闻,http://rihou.cc:555/tv/[Hk]有线新闻
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
