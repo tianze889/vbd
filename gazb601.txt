@@ -799,6 +799,75 @@ HOY77,http://r.jdshipin.com/sFw4S
 
 
 🚀国际频道(捐赠5元获取密码)_8657,#genre#
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台广电,http://cdn6.163189.xyz/163189/fct
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
+无线新闻台,http://cdn6.163189.xyz/163189/wxxw
+NOW新闻台,http://cdn.163189.xyz/163189/now
+TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+HOYTV,http://cdn6.163189.xyz/163189/hoy
+HOYTV,http://cdn.163189.xyz/163189/hoy
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
+HOY资讯台,http://cdn.163189.xyz/163189/hoy78
+VIUTV,https://cdn10.163189.xyz/163189/viu/
+VIUTVSIX,https://cdn10.163189.xyz/163189/viu6/
+RTHK 31,http://cdn.163189.xyz/163189/rthk31
+RTHK 32,http://cdn.163189.xyz/163189/rthk32
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
+五星体育,https://cdn15.163189.xyz/163189/wxty
+重温经典,http://cdn6.163189.xyz/163189/cwjd
+广东珠江,http://cdn2.163189.xyz/163189/gdzj
+广东体育,http://cdn2.163189.xyz/163189/gdty
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+澳视澳门,http://cdn6.163189.xyz/163189/asam
+澳视卫星,http://cdn6.163189.xyz/163189/as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+华丽翡翠台,http://cdn6.163189.xyz/163189/jade
+翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
+TVBJ,http://cdn6.163189.xyz/163189/j1
+TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
+TVB亚洲武侠,http://cdn6.163189.xyz/163189/yzwx
+娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
+TVB星河,http://cdn6.163189.xyz/163189/tvbxh
+TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
+TVB星河,https://cdn10.163189.xyz/163189/xinghe/
+天映新加坡,https://cdn10.163189.xyz/163189/typd/
+天映经典频道,https://cdn10.163189.xyz/163189/ccm/
+千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
+天映频道,http://o11.163189.xyz/stream/live/typd/
+天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华经典台,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
+ASTRO AOD,http://o11.163189.xyz/stream/live/aod/
+ASTRO AEC,http://o11.163189.xyz/stream/live/aec/
+ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt/
+IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
+八度空间,http://cdn6.163189.xyz/163189/8tv
+CHANNEL 5,http://cdn6.163189.xyz/163189/ch5
+CHANNEL 8,http://cdn6.163189.xyz/163189/ch8
+CHANNEL U,http://cdn6.163189.xyz/163189/chu
+纬来电影台,https://smt.1678520.xyz/163189/wldy
+纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+纬来体育台,https://smt.1678520.xyz/163189/wlty
+龙祥时代,https://smt.1678520.xyz/163189/lxsd
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森戏剧,https://smt.1678520.xyz/163189/dsxj
+东森洋片,https://smt.1678520.xyz/163189/dsyp
+
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
