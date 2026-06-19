@@ -1782,12 +1782,11 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 🇨🇳中国台湾,#genre#
-中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,http://rihou.cc:555/tv/中天新闻
+TVBS新闻,https://live-apirtmplive01.cfae.cn/live/568iHngd4hkjhYRvrC3eE185UqGILduL.flv
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新闻,https://live-apirtmplive01.cfae.cn/live/568iHngd4hkjhYRvrC3eE185UqGILduL.flv
 镜新闻,http://rihou.cc:555/tv/镜新闻
 民视新闻,http://rihou.cc:555/tv/民视新闻
 中视新闻卡http://rihou.cc:555/tv/中视新闻 
