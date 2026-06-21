@@ -1294,7 +1294,6 @@ TVB翡翠HD,http://120.238.5.44:1698/hls/83/index.m3u8
 TVB星河(多音轨字幕),http://120.238.5.44:1698/hls/88/index.m3u8
 翡翠台1,http://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.163189.xyz/163189/fct
-无线翡翠4K,https://cdn6.163189.xyz/163189/fct4k
 无线华丽,https://cdn6.163189.xyz/163189/hlfct
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
@@ -1432,21 +1431,6 @@ mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=98
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-民视影剧,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
-公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
-靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
-影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
-amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
-My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
-经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
-DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
-金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 天映频道,http://o11.163189.xyz/stream/live/typd/
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
@@ -1459,7 +1443,6 @@ Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 Cinemax经典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
 猫和老鼠轮播,https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 尼克少儿,http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
-尼克少儿 俄罗斯,http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
 CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 CN卡通 捷克,https://estreams.tv.nej.cz/dash/CH_CARTOON_HD.ism/playlist.mpd
 BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
