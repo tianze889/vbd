@@ -219,9 +219,36 @@ CGTN记录,http://14.204.32.183:6610/00000002/2/G_CGTVJL-HD/index.m3u8?AuthInfo=
 浙江卫视,http://14.204.32.183:6610/00000002/2/ZJWS-HD/index.m3u8?AuthInfo=%2Flu3M2hgmvQRBhId%2B8s4VLb%2Bk%2BtCVVDp7Bij3pU74af0eFQ7u%2F92oEf%2BP2zjOFtC0ZfrSSY6FjdW4Alf1EsrCw%3D%3D&amp;version=1.0&amp;virtualDomain=00000002.live_hls.zte.com&amp;programid=ZJWS-HD&amp;stbid=21000453001352000000185E0B961F6A&amp;userid=9087100026829&amp;IASHttpSessionId=RR3872020250611041633778395&amp;ispcode=27
 重庆卫视,http://14.204.32.182:6610/00000002/2/G_CHONGQING-HD/index.m3u8?AuthInfo=%2Flu3M2hgmvQRBhId%2B8s4VLLroyh4DgLmRvkRKJcqjTt5jPYdz4oFAUZc3wfvphNLZQ59Yf9lxSJNKZey%2F1P7Fg%3D%3D&amp;version=1.0&amp;virtualDomain=00000002.live_hls.zte.com&amp;programid=G_CHONGQING-HD&amp;stbid=21000453001352000000185E0B961F6A&amp;userid=9087100026829&amp;IASHttpSessionId=RR3863420250611042036774766&amp;ispcode=27&amp;
 
-
-
 Ⓜ️央视咪咕,#genre#
+CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
+CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
+CCTV4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
+CCTV4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
+CGTN外语纪录,https://live.chinacert.cftest5.cn/cnmg/live/609006487
+CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
+CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
+CGTN法语,https://live.chinacert.cftest5.cn/cnmg/live/609006476
+CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
+老故事,https://live.chinacert.cftest5.cn/cnmg/live/884121956
+发现之旅,https://live.chinacert.cftest5.cn/cnmg/live/624878970
+中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
+CGTN,https://live.chinacert.cftest5.cn/cnmg/live/609017205
+
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -333,11 +360,6 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
-
-CCTV1,http://14.204.32.182:6610/00000003/2/H_CCTV1/index.m3u8?virtualDomain=00000003.live_hls.zte.com&IASHttpSessionId=SLB271500920260623153217276421&ispcode=41
-CCTV1,http://14.204.32.181:6610/00000003/2/H_CCTV1/index.m3u8?virtualDomain=00000003.live_hls.zte.com&ispcode=41&IASHttpSessionId=SLB271505020260623153234283344
-
-
 
 
 📡卫视咪咕,#genre#
