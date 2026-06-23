@@ -122,26 +122,6 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 
 
 Ⓜ️央视咪咕,#genre#
-CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
-CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
-CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
-CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
-CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
-CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
-CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
-CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
-CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
-CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
-CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
-
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -253,6 +233,11 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+
+CCTV1,http://14.204.32.182:6610/00000003/2/H_CCTV1/index.m3u8?virtualDomain=00000003.live_hls.zte.com&IASHttpSessionId=SLB271500920260623153217276421&ispcode=41
+CCTV1,http://14.204.32.181:6610/00000003/2/H_CCTV1/index.m3u8?virtualDomain=00000003.live_hls.zte.com&ispcode=41&IASHttpSessionId=SLB271505020260623153234283344
+
+
 
 
 📡卫视咪咕,#genre#
