@@ -140,46 +140,6 @@ TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 无线翡翠,http://o11.163189.xyz/stream/tvb/fct/
 tvbp,http://o11.163189.xyz/stream/tvb/tvbp/
 
-☀️特新Pdtv,#genre#
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
-有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
-有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
-无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
-无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
-Plus综合双语,https://o11.163189.xyz/stream/tvb/tvbp/   
-无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
-无线华丽双语,https://o11.163189.xyz/stream/live/hlt/
-无线星河双语,https://o11.163189.xyz/stream/live/tvbxh/
-无线千禧单粤,https://o11.163189.xyz/stream/live/tvbc/
-astroaod双语,https://o11.163189.xyz/stream/live/aod/
-astroaec双语,https://o11.163189.xyz/stream/live/aec/
-astroiqiyi单国,https://o11.163189.xyz/stream/live/iqiyi/
-astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
-
 🚀港澳风云,#genre#
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
@@ -1606,12 +1566,6 @@ AEC,https://o11.163189.xyz/stream/live/aec/
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-
-🛠️香港频道,#genre#
-
-
-
-
 
 🇭🇰极速港台,#genre#
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
@@ -5141,6 +5095,7 @@ Astro Badminton,https://stream1.freetv.fun/astro-badminton--wj-1.ctv
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 🎭︎综艺直播,#genre#
 韩国综艺,http://cfss.cc/cdn/huya/11336725.flv
