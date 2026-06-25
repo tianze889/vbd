@@ -87,6 +87,18 @@ CH5,https://cdn6.163189.xyz/163189/ch5
 CH8,https://cdn6.163189.xyz/163189/ch8
 CHU,https://cdn6.163189.xyz/163189/chu
 NOW NEWS,http://cdn.163189.xyz/163189/now
+华丽翡翠,http://o11.163189.xyz/stream/live/hlt/
+华丽,http://o11.163189.xyz/stream/live/jade/
+AOD,http://o11.163189.xyz/stream/live/aod/
+AEC,http://o11.163189.xyz/stream/live/aec/
+欢喜,http://o11.163189.xyz/stream/live/hxt/
+爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
+天映频道,http://o11.163189.xyz/stream/live/typd/
+天映经典,http://o11.163189.xyz/stream/live/ccm/
+TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
+千禧,http://o11.163189.xyz/stream/live/tvbc/
+无线翡翠,http://o11.163189.xyz/stream/tvb/fct/
+tvbp,http://o11.163189.xyz/stream/tvb/tvbp/
 
 ☀️特新Pdtv,#genre#
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
