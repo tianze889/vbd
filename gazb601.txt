@@ -32,8 +32,28 @@ zybzk2698,https://cdn6.163189.xyz/163189/mzt
 无线星河,https://o11.163189.xyz/stream/live/tvbxh/
 无线功夫,https://cdn6.163189.xyz/163189/yzwx
 无线千禧,https://o11.163189.xyz/stream/live/tvbc/
+寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JP9JTo&tk=B9eddFxBG9JM
+中天新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G8vMmy&tk=B9eddFxBG9JM
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 VIUTV'粤,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
 Astroaod,https://o11.163189.xyz/stream/live/aod/
+天映马来,http://o11.163189.xyz/stream/live/typd/
+天映经典2,http://o11.163189.xyz/stream/live/ccm/
+星河国语,http://o11.163189.xyz/stream/live/tvbxh/
+千禧经典,http://o11.163189.xyz/stream/live/tvbc/
+爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
+Astro AOD,http://o11.163189.xyz/stream/live/aod/
+Astro AEC,http://o11.163189.xyz/stream/live/aec/
+欢喜台,http://o11.163189.xyz/stream/live/hxt/
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+TITV,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+天映频道马来西亚,http://o11.163189.xyz/stream/live/typd/
 Plus综合,https://cdn6.163189.xyz/163189/tvbp
 有线综合,https://cdn6.163189.xyz/163189/hoy
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
