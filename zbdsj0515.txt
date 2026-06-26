@@ -3527,7 +3527,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://net.manyee.net:18888/rtp/239.77.0.112:5146
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-湛江新闻综合,http://gbtv-rtmp-self.zjwtv.com/zjtv/zhpd.m3u8
+湛江新闻综合,https://tvlive.zjwtv.com/live/sobeystream_1782377327.m3u8
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
@@ -3588,7 +3588,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 深圳移动,http://pr.19760929.xyz:9688/rtp/239.77.1.175:5146
 深圳都市频道,http://pr.19760929.xyz:9688/rtp/239.77.1.124:5146
 深圳都市频道,http://pr.19760929.xyz:9688/rtp/239.77.1.176:5146
-湛江新闻,http://pr.19760929.xyz:9688/rtp/239.77.0.141:5146
+湛江新闻综合,http://pr.19760929.xyz:9688/rtp/239.77.0.141:5146
 阳江-1,http://pr.19760929.xyz:9688/rtp/239.253.43.82:5146
 东莞综合,http://pr.19760929.xyz:9688/rtp/239.253.43.104:5146
 东莞生活资讯,http://pr.19760929.xyz:9688/rtp/239.253.43.105:5146
