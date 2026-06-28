@@ -870,14 +870,12 @@ HOY77,http://r.jdshipin.com/sFw4S
 
 🚀国际频道(捐赠5元获取密码)_8657,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台广电,http://cdn6.163189.xyz/163189/fct
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 无线新闻台,http://cdn6.163189.xyz/163189/wxxw
 NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 HOYTV,http://cdn6.163189.xyz/163189/hoy
 HOYTV,http://cdn.163189.xyz/163189/hoy
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
@@ -955,7 +953,6 @@ CHANNEL U,http://cdn6.163189.xyz/163189/chu
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
@@ -976,7 +973,6 @@ CHANNEL U,http://cdn6.163189.xyz/163189/chu
 明珠台,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://cdn6.163189.xyz/163189/mzt
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
@@ -1002,7 +998,6 @@ Now新聞台,https://cdn.163189.xyz/163189/now
 ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
-TVB J1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB J1,https://cdn6.163189.xyz/163189/tvb1
 TVB J1,https://cdn6.163189.xyz/163189/j1
 华丽翡翠台,http://r.jdshipin.com/thuYX
@@ -1044,7 +1039,6 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
-寰宇新聞台,https://4g.158.qzz.io/163189/404c15e617dc9581
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
@@ -1145,8 +1139,6 @@ NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 伊朗PBC Tapesh TV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
 伊拉克 Al Sharqiya,http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 伊拉克 Sharqiya News,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-加纳TV Africa (Ghana),http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 英国BBC新闻 美国版,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 天空新闻,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 美国CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
@@ -1190,7 +1182,6 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 美国NBC体育,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 
 🇨🇳港台综合,#genre#
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
