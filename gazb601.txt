@@ -848,7 +848,7 @@ TVBS,https://iptv.852851.xyz/l/1FDDKlbL2jldprW07jmx6XO7-p2QGb1UCXBk0vOmsL_auMSx9
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://cdn6.163189.xyz/163189/fct
-TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
+有线18台,https://o11.163189.xyz/stream/tvb/tvbp/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
@@ -893,7 +893,7 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/GeWKr
 明珠台,http://r.jdshipin.com/ZQ4kN
-TVBPlus,http://r.jdshipin.com/Nr5jq
+有线18台,http://r.jdshipin.com/Nr5jq
 无线新闻台,http://r.jdshipin.com/CkuBd
 TVB星河,http://r.jdshipin.com/Voac4
 华丽翡翠台,http://r.jdshipin.com/thuYX
