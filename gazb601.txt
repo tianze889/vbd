@@ -10,7 +10,7 @@
 最新本版电视家,https://cdn6.163189.xyz/163189/yzwx
 捐赠30元可获取,https://cdn.163189.xyz/163189/hoy78
 最新港澳台直播,https://cdn6.163189.xyz/163189/hoy
-U盘版港澳台软件65元,https://cdn2.163189.xyz/163189/hoyjj
+65元U盘版港澳台软件,https://o11.163189.xyz/stream/live/tvbc/
 包稳定流畅长期能用,https://cdn6.163189.xyz/163189/wxxw
 含10个电视应用,https://cdn6.163189.xyz/163189/fct
 需要加微信号,https://cdn6.163189.xyz/163189/hlfct
@@ -2690,7 +2690,6 @@ RTHK32,http://cdn.163189.xyz/163189/rthk32
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB娱乐新闻台,https://6.cdn.loc.cc/163189.php?id=tvb1
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -2704,11 +2703,8 @@ Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astr AeC,http://o11.163189.xyz/stream/live/aec/
 Astro 爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
-J1,https://6.cdn.loc.cc/163189.php?id=j1
-翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
 TVB Plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-J2,https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 VIUTV,https://cdn.163189.xyz/163189/viu
 HOY77,https://cdn6.163189.xyz/163189/hoy
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -2740,18 +2736,13 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-NOW体育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
 NOW体育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
 NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
 NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-NOW英超,https://live13.zubmhu.com/live/70692098.flv
-NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -2850,8 +2841,6 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 广西移动,http://38.75.136.137:98/gslb/dsdqpub/gxyd.m3u8?auth=testpub
 广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
-湖北经视,http://38.75.136.137:98/gslb/dsdqpub/hbjs.m3u8?auth=testpub
-湖北综合,http://38.75.136.137:98/gslb/dsdqpub/hbzh.m3u8?auth=testpub
 天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
 天津影视,http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
@@ -2867,7 +2856,6 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 周润发电影,http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
 周星驰电影,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 cctv2hd,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-cctv3hd,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 cctv4hd,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 cctv6hd,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 cctv7hd,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
@@ -2881,12 +2869,9 @@ cctv15hd,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 cctv16hd,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 cctv17hd,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
@@ -2895,9 +2880,7 @@ cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
 民视,http://74.91.26.218:82/live/ftv.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
@@ -2905,7 +2888,6 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
 华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 
 ☀️央视付费(捐5元获取密码)_8657,#genre#
