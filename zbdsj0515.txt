@@ -6699,6 +6699,7 @@ JYTVHD,http://ddns.xryo.cn:8888/rtp/239.111.205.107:5140
 张家界新闻B,http://yyangnet99.host:65000/rtp/239.76.252.234:9000
 
 🏙️上海频道,#genre#
+东方财经,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001318/index.m3u8?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2&streamkey=0bInZucWHbQWividBXjmAgLfuZVrGdccYoTtiBUofVbe4LYIVOKiiepWW2dTJ84PXd89hyU1jHUZdBO7dV5oPciuiBnktBjufPiVCjAeanjIqMN8IFLiDYCS4msx0&token=1782890766-3dd6e618fb0b810c-0-9cda0e5fc3bef621b614b63624b19d93
 东方财经,https://6ea6f0-f20a1b-d61f.kylintv.tv/live/snvn_iphone.m3u8
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
