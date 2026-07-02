@@ -2666,21 +2666,6 @@ CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🛒付费频道(捐5元获取密码)_8657,#genre#
-TVB无线新闻,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-TVB明珠,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
-VIUTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
-HOY77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
-RTHK31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-TVB无线新闻,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-TVB翡翠,http://67.220.71.199:2347/livehttpplay?channel_id=30025
-TVB明珠,http://67.220.71.199:2347/livehttpplay?channel_id=30026
-RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
-VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-VIUTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-RTHK31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 华丽台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -2716,33 +2701,15 @@ HK普通话台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u
 CNR香港之声1-Voice of Hong Kong-Kowloon City,https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
 老澳门直播,https://vdm6-ali.hrypl168.com/live/a6.flv
 東森新聞(211),http://211.72.174.95:8138/0.ts
-華視新聞資訊,http://74.91.26.218:82/live/ctsnews.m3u8
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
-民視新聞台,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞(211),http://211.72.174.95:8117/0.ts
-華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-華視,http://74.91.26.218:82/live/cts.m3u8
 華視(211),http://211.72.174.95:8114/0.ts
-中視,http://74.91.26.218:82/live/ctv.m3u8
-中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
-中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中視(211),http://211.72.174.95:8113/0.ts
-民視,http://74.91.26.218:82/live/ftv.m3u8
-民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
-民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民視(211),http://211.72.174.95:8115/0.ts
-公視,http://74.91.26.218:82/live/pts.m3u8
-公視台語台,http://74.91.26.218:82/live/ptsty.m3u8
-小公視,http://74.91.26.218:82/live/ptsse.m3u8
 公視(211),http://211.72.174.95:8116/0.ts
 天映經典,http://o11.163189.xyz/stream/live/ccm/
 金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
 中天新闻台,http://222.128.55.152:9080/live/fc.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 三立戏剧频道,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩频道,http://61.221.215.25:8800/hls/48/index.m3u8
