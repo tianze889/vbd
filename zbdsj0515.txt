@@ -6443,7 +6443,7 @@ JYTVHD,http://ddns.xryo.cn:8888/rtp/239.111.205.107:5140
 
 🏙️上海频道,#genre#
 东方财经,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001318/index.m3u8?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2&streamkey=0bInZucWHbQWividBXjmAgLfuZVrGdccYoTtiBUofVbe4LYIVOKiiepWW2dTJ84PXd89hyU1jHUZdBO7dV5oPciuiBnktBjufPiVCjAeanjIqMN8IFLiDYCS4msx0&token=1782890766-3dd6e618fb0b810c-0-9cda0e5fc3bef621b614b63624b19d93
-东方财经,https://6ea6f0-f20a1b-d61f.kylintv.tv/live/snvn_iphone.m3u8
+东方财经,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001318/index.m3u8?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2&streamkey=0bInZucWHbQWiufMf2SaVUERH8jcJiWlkcxt2XJBoIOnY4D4r8i2OVN7hF8v4PWmqvj1Ygp1oJu6x5QaZuy9BTCb4dF0tCsxjnOr1tn1WhUhJ03fuhedl1rqdj0MU&token=1783024420-3168fb6d2a46ddc0-0-6fb7055168d27082a4da2677cc8de9ed
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 第一财经,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001017/index.m3u8?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=07xclP9QQ7A17N3JL2bRZ4fqVYqcWfQSPAME1Jh0mIEQnCuDVVpYetpKSNPl9dmN22H84gnsi7vSka89APn0WLF3XUmedWRM5TsdKOGxyEJJ7eloNmTXsChL&token=1782891078-d2e570bdba3c2d5d-0-5d92a297d806b8165b5f1dacfcfb2c51
