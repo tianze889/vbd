@@ -43,6 +43,7 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+澳門體育,https://cdn.qd.je/163189.php?id=amty
 无线华丽国,https://o11.163189.xyz/stream/live/hlt/
 无线星河,https://o11.163189.xyz/stream/live/tvbxh/
 无线千禧,https://o11.163189.xyz/stream/live/tvbc/
@@ -94,11 +95,8 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-CTS,http://74.91.26.218:82/live/cts.m3u8
-中视新闻,http://74.91.26.218:82/live/ctv.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-ftv,http://74.91.26.218:82/live/ftv.m3u8
+澳门体育,https://cdn.qd.je/163189.php?id=amty
+澳门体育,https://live.666666.zip/stream/77795881.m3u8
 TVB PLUS B,http://www.kaniptv.cn/ua3.php?etoken=4VKy30X3HnmOESxxd2f%2BYZhGLmNZ6iXT0rOK%2Bk4pB0qbEDRr%2Fbxww8%2FKrlzE5MHpv419rFjnnXyEoA%2FzLVzd4I%2F8FWBD%2BJ4U6yth4sNDRaaE6ODqqCBOtsDX%2Fmp1MIaWOJbCjK4%2Fh7YlwGcwJHokMhnqr9xN0t5m0x2js3T8FPYHM%2FJ1fNN95XwLmHFD6U3w%2F%2FMJW9hjNVWpI1sq6WWVYhKEyzNgaqyw96K04AaIkNepNfWaEFVx0u6HzGh6JF2GLfr1vSnHSTKRzA6F0wKk8Xr2UJZFGThvT%2BV9htY44mHqUn2YF7NkjYjIfSSF996DyEdAl9MDNkTGxAgMeIIHEA%3D%3D
 Now新闻台,http://www.kaniptv.cn/ua3.php?etoken=kftrFZtW8eL2DlmUveZBTs09wjTHimredguNVUIPjH1XdfYK1R7sBV2dyipwWY0ufa4eLV2PdJQxhztKTG70O1Bnu9cWlPlkEzfxdwzCBLqeCnU%2FThi9rNGUdotFAs33Uijvlk2PRowVFksKiDwG4P%2F0hEVER6odEcbe77I7gqf3h20iZhME5Knx%2BGv62sGjExDDTAnuE2zKW0fXRWpuqaey9cBeXCUWul2bXZk%2BcSn5NtecAfNU1A9Let3%2BOLkQ%2FzIQAjRHYT9gTp%2B9pS02FyJ0prPb%2F2qN2qwv617ZEZXA8NJgPRgNTERn2%2BKn3%2BRg%2FPYik4pI3wrll5yure99vA%3D%3D
 娛樂新聞台,http://www.kaniptv.cn/ua3.php?etoken=nSAIZ2YCLIOnIGhLOfA7Yk2rsr8hlv%2B9X3zvLkMSHS%2BocK6Y5X2%2BNMI%2Fs%2FxeAU%2Bv7MFZTcvWBBT0jGD%2FPSyRT9ZjWavMSOJyQERdalhxeAeo8NUq%2BwnUKWI5%2BOSG%2Ft1UOqOpmKcQSZBwhy35%2FObdOieBscHV5X3kXy5%2BrR9ZldCLrIJJQBZweg%2BbxxYMse6JACRzSD289r%2FUQdhvqsKSQ2Q1TsfTCh6F4YDaB9vu97bdYtBgClXHcdxoUuzkBVBvJX7S%2FCBafcxIPNoZ62%2BBpeQ88PnkJ4TSggabYEl7OPyrdfo9zhUuWY0FLhO7oMsKdIxn6yuWtAn1MkQ2rktCPQ%3D%3D
@@ -753,7 +751,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 金色剧场,http://m.061899.xyz/mg/jsjc
 乡村振兴,http://m.061899.xyz/mg/xczx
 
-🥇2026世界杯,#genre#
+🥇2026世界杯(捐赠5元获取密码)_8657,#genre#
 世界杯 英格兰VS刚果（金） 纯享版回放（詹俊、张路、孙葆洁、郭小仙儿） 23:00,http://113.120.243.155:7788/965876095
 世界杯 英格兰VS刚果（金） 全场回放（詹俊、张路、孙葆洁、郭小仙儿） 23:00,http://113.120.243.155:7788/965876391
 世界杯 英格兰VS刚果（金） 全场回放（陈凯冬、叶紫辰） 23:00,http://113.120.243.155:7788/965876165
