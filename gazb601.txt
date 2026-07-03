@@ -44,22 +44,6 @@ NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 凤凰中文台,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-极限电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GJSQxh&tk=aUcnTVRl3MU0
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 澳门体育,https://cdn.qd.je/163189.php?id=amty
 澳门体育,https://live.666666.zip/stream/77795881.m3u8
 TVB PLUS B,http://www.kaniptv.cn/ua3.php?etoken=4VKy30X3HnmOESxxd2f%2BYZhGLmNZ6iXT0rOK%2Bk4pB0qbEDRr%2Fbxww8%2FKrlzE5MHpv419rFjnnXyEoA%2FzLVzd4I%2F8FWBD%2BJ4U6yth4sNDRaaE6ODqqCBOtsDX%2Fmp1MIaWOJbCjK4%2Fh7YlwGcwJHokMhnqr9xN0t5m0x2js3T8FPYHM%2FJ1fNN95XwLmHFD6U3w%2F%2FMJW9hjNVWpI1sq6WWVYhKEyzNgaqyw96K04AaIkNepNfWaEFVx0u6HzGh6JF2GLfr1vSnHSTKRzA6F0wKk8Xr2UJZFGThvT%2BV9htY44mHqUn2YF7NkjYjIfSSF996DyEdAl9MDNkTGxAgMeIIHEA%3D%3D
