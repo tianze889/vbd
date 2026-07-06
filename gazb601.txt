@@ -140,6 +140,147 @@ J2台,http://bziyunshao.synology.me:8890/bysid/82
 無綫財經,http://bziyunshao.synology.me:8890/bysid/85
 
 🇨🇳港台最新,#genre#
+翡翠台,http://124.244.129.167:9004/0.ts
+翡翠台,http://qingyi.7766.org:9004/0.ts
+翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
+翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://49.232.143.177:80/pyxg/export.php?id=4&key=****
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+翡翠台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00JmtleT0lMkElMkElMkElMkE=
+翡翠台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00JmtleT0qKioq
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+翡翠台,https://cdn.qd.je/163189.php?id=fct
+翡翠台,https://cdn.qd.je/163189.php?id=fctvtt
+翡翠台4K,https://cdn.qd.je/163189.php?id=fct4k
+無綫新聞台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+無綫新聞台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0lMkElMkElMkElMkE=
+無綫新聞台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0qKioq
+無綫新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+無綫新聞台,https://cdn.qd.je/163189.php?id=wxxw
+無綫新聞台,https://cdn.qd.je/163189.php?id=wxxwt
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,https://cdn.qd.je/163189.php?id=mzt
+明珠台,https://cdn.qd.je/163189.php?id=mztvtt
+TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
+TVB Plus,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01JmtleT0lMkElMkElMkElMkE=
+TVB Plus,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01JmtleT0qKioq
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbpvtt
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbp2
+HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+HOY TV,https://cdn.qd.je/163189.php?id=hoy
+HOY TV,https://cdn.qd.je/163189.php?id=hoy2
+HOY国际财经台,https://cdn.qd.je/163189.php?id=hoy76
+HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+HOY资讯台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xMSZrZXk9KioqKg==
+HOY资讯台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xMSZrZXk9JTJBJTJBJTJBJTJB
+HOY资讯台,https://cdn.qd.je/163189.php?id=hoy78
+Now新聞台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+Now新聞台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9JTJBJTJBJTJBJTJB
+Now新聞台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9KioqKg==
+Now新聞台,https://cdn.qd.je/163189.php?id=now
+Now財經台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNSZrZXk9KioqKg==
+Now財經台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNSZrZXk9JTJBJTJBJTJBJTJB
+ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
+TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+TVB J1,https://cdn.qd.je/163189.php?id=tvb1
+TVB J1,https://cdn.qd.je/163189.php?id=j1
+华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
+华丽翡翠台,https://cdn.qd.je/163189.php?id=hlfct
+华丽翡翠台,https://cdn.qd.je/163189.php?id=hlt
+华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
+华丽翡翠台,https://cdn.qd.je/163189.php?id=jade2
+黃金華劇台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Y9kdAm&tk=SLK5QjnsRiya
+黃金華劇台,https://cdn.qd.je/163189.php?id=hjhjt
+娛樂新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=OwCNvU&tk=SLK5QjnsRiya
+娛樂新聞台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
+娛樂新聞台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+娛樂新聞台,https://cdn.qd.je/163189.php?id=ylxw
+星河台,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+星河台,http://183.237.240.235:808/hls/121/index.m3u8
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
+星河台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=5rfJoq&tk=SLK5QjnsRiya
+星河台,https://cdn.qd.je/163189.php?id=tvbxh
+星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+星河台,https://cdn.qd.je/163189.php?id=xinghe
+星河台,https://cdn.qd.je/163189.php?id=tvbxh2
+亚洲武侠,https://cdn.qd.je/163189.php?id=yzwx
+ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+ViuTV,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD04JmtleT0qKioq
+ViuTV,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD04JmtleT0lMkElMkElMkElMkE=
+ViuTV,https://cdn.qd.je/163189.php?id=viu
+澳门综艺,https://cdn.qd.je/163189.php?id=amzy
+澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+澳门莲花,https://cdn.qd.je/163189.php?id=amlh
+澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+澳视澳门,https://cdn.qd.je/163189.php?id=asam
+澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+澳视卫星,https://cdn.qd.je/163189.php?id=as
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332332-hyxw.m3u8
+寰宇新聞台,http://rihou.cc:555/tv/寰宇新闻
+寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
+寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
+龙华戏剧,https://cdn.qd.je/163189.php?id=lhxj
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
+天映频道,https://cdn.qd.je/163189.php?id=typd
+天映频道,https://cdn.qd.je/163189.php?id=typd2
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
+星空卫视,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
+有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+Love Nature,http://rihou.cc:555/tv/LoveNature
+Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/480p-cc/index.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/360p-cc/index.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/240p-cc/index.m3u8
+Love Nature,http://108.181.20.255:27347/livehttpplay?channel_id=23555
+Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+tvN,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=tvN
+Animax (HK),http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
+NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
+TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
+NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
+NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/n90gt
