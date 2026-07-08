@@ -213,12 +213,9 @@ TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视,http://74.91.26.218:82/live/ptsty.m3u8
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
 华藏卫视,https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
 华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -266,7 +263,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 无线新闻台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
 HOY78台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=IWGLtb&tk=4U04NDOE13ra
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 
 🔥港台电影,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -308,9 +304,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 南国都市4K超高清,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南方卫视,http://74.91.26.218:82/live/nfws.m3u8
-周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
-周润发,http://74.91.26.218:82/live/vlzrf.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -320,16 +313,13 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
-成龙,http://74.91.26.218:82/live/vlcl.m3u8
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
 斗鱼港剧,https://live.ottiptv.cc/douyu/9548850
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 小毅剧场,https://live.ottiptv.cc/douyu/6906628
-少年包青天,http://74.91.26.218:82/live/vlsnbqt.m3u8
 奇光剧场,https://live.ottiptv.cc/douyu/8009547
 奇光港剧,https://live.ottiptv.cc/douyu/11849873
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
@@ -682,21 +672,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 🇨🇳港台测试,#genre#
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 星空国际,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
@@ -755,7 +730,6 @@ HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 Now新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TkL6PN&tk=SLK5QjnsRiya
@@ -980,7 +954,6 @@ TVBS欢乐,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
 華視,http://220.135.241.47:8317/0.ts
 華視,http://211.72.174.95:8114/0.ts
 華視,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 中視新聞,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 中視新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 爱尔达娱乐,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=L72E6f&tk=SLK5QjnsRiya
@@ -1078,7 +1051,6 @@ Bread TV,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
 Channel [V],http://rihou.cc:555/tv/Channel+V
 民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist_w1827568404.m3u8
@@ -1225,19 +1197,6 @@ TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&i
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
-民视,http://74.91.26.218:82/live/ftv.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 大湾区卫视,http://107.150.60.122/live/nfws.m3u8
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 博斯網球[BoSi Tennis],http://67.220.71.199:2347/livehttpplay?channel_id=42026
@@ -1268,10 +1227,6 @@ GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 中国教育3,http://107.150.60.122/live/cetv3.m3u8
 中視新聞HD,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
 
 🦋十二大美女,#genre#
 十二大美女-爱拼才会赢,https://vdse.bdstatic.com//947888684a9500b7e69c78dd0fd35040.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T19%3A12%3A14Z%2F-1%2Fhost%2Feac885162b26715944a7338f77fe423579fc6b7f3fbf9e4e48c4deaea1460afe&vid=14688132578918791970
@@ -1867,7 +1822,6 @@ CCTV12,http://27.39.122.4:9901/tsfile/live/1017_1.m3u8?key=txiptv
 CCTV13,http://27.39.122.4:9901/tsfile/live/1018_1.m3u8?key=txiptv
 CCTV14,http://27.39.122.4:9901/tsfile/live/1019_1.m3u8?key=txiptv
 CCTV15,http://27.39.122.4:9901/tsfile/live/1020_1.m3u8?key=txiptv
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17,http://27.39.122.4:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 
@@ -4326,8 +4280,6 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 金装武术电影大全,https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
 
 🏀体育频道,#genre#
-CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV赛事,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5G,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8
 CCTV5+G,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
