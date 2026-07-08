@@ -2,21 +2,21 @@
 软件作者,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 资源宝藏库,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 制作维护,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-捐赠5元获取,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-频道密码,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-捐赠10元可获取,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-4K高清影视软件2个,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-捐赠10元可获取,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-最新本版电视家,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-捐赠30元可获取,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-最新港澳台直播,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-65元U盘版港澳台软件,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-包稳定流畅长期能用,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GJSQxh&tk=aUcnTVRl3MU0
-含10个电视应用,http://free.frp.vip:10092/player.php?id=lt/K/NowSports618
-需要加微信号,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-zybzk2698,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-捐赠后加微领取,http://o11.163189.xyz/stream/live/jade/
-感谢支持！,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+捐赠5元获取,https://cdn.qd.je/163189.php?id=wxxw
+频道密码,https://cdn.qd.je/163189.php?id=fct
+捐赠10元可获取,https://cdn.qd.je/163189/now
+4K高清影视软件2个,https://cdn.qd.je/163189/mzt
+捐赠10元可获取,https://cdn.qd.je/163189/hlfct
+最新本版电视家,https://cdn.qd.je/163189/asam
+捐赠30元可获取,https://cdn.qd.je/163189/as
+最新港澳台直播,https://cdn.qd.je/163189/yzwx
+65元U盘版港澳台软件,https://cdn.qd.je/163189/hjhjt
+包稳定流畅长期能用,https://cdn.qd.je/163189/tvbxh2
+含10个电视应用,https://cdn.qd.je/163189/ccm2
+需要加微信号,https://cdn.qd.je/163189/tvbc
+zybzk2698,https://cdn.qd.je/163189/ylxw
+捐赠后加微领取,https://cdn.qd.je/163189/gdzj
+感谢支持！,https://cdn.qd.je/163189/lhdy
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
@@ -24,8 +24,6 @@ zybzk2698,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
 无线新闻,https://cdn.qd.je/163189.php?id=wxxw
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 TVB Plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 翡翠台4K(字幕),https://cdn.qd.je/163189/fct4k
 凤凰中文,https://cdn.qd.je/163189/fhzw
 TVB Plus(字幕),https://cdn.qd.je/163189/tvbp
@@ -120,6 +118,8 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 CCTV1港澳版,https://cdn.qd.je/163189/cctv1
 CCTV13,https://cdn.qd.je/163189/cctv13-2
 
