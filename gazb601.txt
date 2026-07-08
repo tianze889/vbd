@@ -329,25 +329,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 
 
 📡央视频道,#genre#
-CCTV1,http://f.123.rr.kg/163189/cctv1
-CCTV2,http://f.123.rr.kg/163189/cctv2
-CCTV3,http://f.123.rr.kg/163189/cctv3
-CCTV4,http://f.123.rr.kg/163189/cctv4
-CCTV5,http://f.123.rr.kg/163189/cctv5
-CCTV5+,http://f.123.rr.kg/163189/cctv5-2
-CCTV6,http://f.123.rr.kg/163189/cctv6
-CCTV7,http://f.123.rr.kg/163189/cctv7
-CCTV8,http://f.123.rr.kg/163189/cctv8
-CCTV9,http://f.123.rr.kg/163189/cctv9
-CCTV10,http://f.123.rr.kg/163189/cctv10
-CCTV11,http://f.123.rr.kg/163189/cctv11
-CCTV12,http://f.123.rr.kg/163189/cctv12
-CCTV13,http://f.123.rr.kg/163189/cctv13
-CCTV14,http://f.123.rr.kg/163189/cctv14
-CCTV15,http://f.123.rr.kg/163189/cctv15
-CCTV16,http://f.123.rr.kg/163189/cctv16
-CCTV17,http://f.123.rr.kg/163189/cctv17
-
 CCTV1,http://82.157.249.28:4009/mgzjk/mgzjk.php?id=cctv1
 CCTV1,http://82.157.249.28:4009/mgzjk/mgzjk.php?id=cctv1b
 CCTV1,http://82.157.249.28:4009/mgzjk/mgzjk.php?id=cctv1b
