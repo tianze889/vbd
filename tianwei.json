@@ -15,14 +15,14 @@
 	"sites":[
 		    {
       "key": "芒果",
-      "name": "🥭星空｜4K观影",
+      "name": "🥭星空｜4K体验---资源宝藏库制作维护",
       "type": 3,
-      "api": "http://mlwl.7766.org:67/lib/drpy2.min.js",
-      "ext": "https://18168.kstore.space/jx/4kMG.js"
+      "api": "https://pan.vma.cc/pan/d/959b77ac0dcae97af03a8f371b3681e6?ext=js",
+      "ext": "https://pan.vma.cc/pan/d/92816ab38f0ef5bc0fb8ae148a15494a?ext=js"
     },
  {
        "key": "ttys",
-            "name": "📢资源宝藏库制作维护,全网高清影视免费看！",
+            "name": "腾讯视频4K",
             "type": 3,
             "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
             "ext": "http://49.232.165.72:1234/js/qq.js"
