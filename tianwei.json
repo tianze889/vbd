@@ -13,6 +13,13 @@
     }
   ],
 	"sites":[
+		    {
+      "key": "芒果",
+      "name": "🥭星空｜4K观影",
+      "type": 3,
+      "api": "http://mlwl.7766.org:67/lib/drpy2.min.js",
+      "ext": "https://18168.kstore.space/jx/4kMG.js"
+    },
  {
        "key": "ttys",
             "name": "📢资源宝藏库制作维护,全网高清影视免费看！",
