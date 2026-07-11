@@ -59,29 +59,29 @@
  "key": "爱奇艺",
       "name": "爱奇┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/优酷视频.js"
     },
     {
         "key": "爱腾讯",
       "name": "腾讯┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/腾讯视频.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/htx99/TVBox_PizazzGY/refs/heads/main/JS/芒果视频.js"
     },
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
