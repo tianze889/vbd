@@ -907,6 +907,41 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視一台,http://38.64.72.148/hls/modn/list/4001/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
+LMN,http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+Cinemax经典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
+寰宇台湾,http://rihou.cc:555/tv/寰宇台湾
+台湾生活,http://rihou.cc:555/tv/台湾生活
+Love Nature,http://rihou.cc:555/tv/LoveNature
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+公视,http://211.72.174.95:8116/0.ts
+公视,http://220.135.241.47:8305/0.ts
+华视,http://220.135.241.47:8318/0.ts
+客家戏曲,http://220.135.241.47:8307/0.ts
+华视,http://220.135.241.47:8317/0.ts
+台视,http://211.72.174.95:8112/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+中视,http://220.135.241.47:8301/0.ts
+好好帮,http://220.135.241.47:8303/0.ts
+LIVE,http://211.72.174.95:8133/0.ts
+民视,http://211.72.174.95:8115/0.ts
+史努比欢乐秀,http://220.135.241.47:8312/0.ts
+凯撒饭店,http://211.72.174.95:8118/0.ts
+民视新闻台,http://211.72.174.95:8117/0.ts
+翡翠台,http://124.244.129.167:9004/0.ts
+翡翠台,http://qingyi.7766.org:9004/0.ts
+凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 五星体育,https://cdn15.163189.xyz/163189/wxty
