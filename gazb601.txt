@@ -458,6 +458,15 @@ TVB ASIA,https://tv.media4u.top:443/live/media4u/media4u/150443
 台視综合台,https://tv.media4u.top:443/live/media4u/media4u/716451
 台視新闻,https://tv.media4u.top:443/live/media4u/media4u/864155
 YOYO TV,https://tv.media4u.top:443/live/media4u/media4u/231585
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=2
+SkysportsF1,http://iptv.4666888.xyz/iptv2A.php?id=4
+SkySportsFootball,http://iptv.4666888.xyz/iptv2A.php?id=5
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=6
+博斯高球1,http://iptv.4666888.xyz/iptv2A.php?id=10
+TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 
 🔥港台电影,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
