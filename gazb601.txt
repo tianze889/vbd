@@ -4927,7 +4927,6 @@ Astro Badminton2,https://live.catvod.com/live.php?id=go_badminton2
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
 🏯北京频道,#genre#
-怀柔,http://1866360231.cloudvdn.com/a.m3u8?domain=pili-live-hdl-bjhr-tv.huairtv.com&player=1&streamid=bjhr-tv:bjhr-tv/huairtv&v3=1
 顺义,http://livebjsy.chinamcache.com/live/zb01.m3u8
 重温经典频道,https://cdn.jdshipin.com/cwjd.php
 重温经典频道,http://8.138.7.223/tv/cwjd.php
@@ -4980,20 +4979,6 @@ Astro Badminton2,https://live.catvod.com/live.php?id=go_badminton2
 北京生活,http://114.242.62.109:888/hls/23/index.m3u8
 北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
 北京财经,http://114.242.62.109:888/hls/21/index.m3u8
-北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
-北京国际,http://r.xace.fun:4999/udp/239.3.1.235:8000
-北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
-北京文艺,http://r.xace.fun:4999/udp/239.3.1.242:8000
-北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
-北京生活,http://r.xace.fun:4999/udp/239.3.1.117:8000
-北京纪实科教,http://r.xace.fun:4999/udp/239.3.1.115:8000
-北京财经,http://r.xace.fun:4999/udp/239.3.1.116:8000
-卡酷少儿,http://r.xace.fun:4999/udp/239.3.1.189:8000
-北京IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
-北京IPTV萌宠TV,http://r.xace.fun:4999/udp/239.3.1.102:8001
-北京IPTV淘剧场,http://r.xace.fun:4999/udp/239.3.1.95:8001
-北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
-北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
 北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
 📻广东频道,#genre#
