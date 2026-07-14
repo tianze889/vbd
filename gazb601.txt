@@ -862,9 +862,10 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 金色剧场,http://m.061899.xyz/mg/jsjc
 乡村振兴,http://m.061899.xyz/mg/xczx
 
-2026世界杯(體育世界)_8657,#genre#
+🥇2026世界杯(體育世界)_8657,#genre#
 世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+CCTV 5,http://69.30.245.50/live/cctv5.m3u8
 BBC One,http://193.239.186.231/BBC1/index.m3u8
 BBC One HD UK,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/19176/index.m3u8
 台视HD,http://211.72.174.95:8112/0.ts
@@ -897,8 +898,7 @@ ORF 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410711
 SERUS,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410713
 SVT 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410714
 SVT 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410715
-CCTV 5,http://69.30.245.50/live/cctv5.m3u8
-CCTV 5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+
 Eurosport 1,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/141/index.m3u8
 Eurosport 2 HD orig,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/5076/index.m3u8
 Setanta Sports 1 HD,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/271/index.m3u8
