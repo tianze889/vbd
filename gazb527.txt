@@ -151,13 +151,7 @@ J2台,http://bziyunshao.synology.me:8890/bysid/82
 無綫財經,http://bziyunshao.synology.me:8890/bysid/85
 
 🇹🇼 台湾频道(捐赠5元获取密码)_8657,#genre#
-中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 东森戏剧,https://smt.1678520.xyz/163189/dsxj
@@ -174,24 +168,24 @@ TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&i
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 臺灣戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
 華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
+小公视,http://142.54.179.26:81/live/ptsse.m3u8?tm=1784273516&key=1a2f764910cdc6385ea908a18aca9612
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民视,http://74.91.26.218:82/live/ftv.m3u8
+民视,http://142.54.179.26:81/live/ftv.m3u8?tm=1784273503&key=303b5eb301d93ed5ece6cacd24871c5f
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+民视台湾台,http://142.54.179.26:81/live/ftvtw.m3u8?tm=1784273493&key=423b85101cb154e3fb687c9e29a3c5ca
+民视新闻,http://142.54.179.26:81/live/ftvnews.m3u8?tm=1784273484&key=ab06b7fc4078172eee22d0926b59ff7c
+民视第一台,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1784273475&key=f4f9313f7b15b3a792afd70d3d4c46f2
 龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+公视台语台,http://142.54.179.26:81/live/ptsty.m3u8?tm=1784273464&key=e8ffc82b13d7c0ce451879063d1a855f
+华视,http://142.54.179.26:81/live/cts.m3u8?tm=1784273453&key=54ac62dae9e585e4823b2cc0637ddb20
+华视教育体育文化,http://142.54.179.26:81/live/ctsjy.m3u8?tm=1784273441&key=d0b2e0f700e2f23f819c713c742a3ddb
+华视新闻,http://142.54.179.26:81/live/ctsnews.m3u8?tm=1784273429&key=a43962c9aebb438c1f122e9ef0a346ac
+台视,http://107.150.50.82:81/live/ttv.m3u8?tm=1784273343&key=99c845dcf982ef9adc06dce81f16c3d0
+台视新闻,http://107.150.50.82:81/live/ttvnews.m3u8?tm=1784273363&key=dac99c15e0203fe63bf4b902dad056c2
+台视综合,http://107.150.50.82:81/live/ttvzh.m3u8?tm=1784273385&key=ccd5ed05f3f7abd6a0f48abf6f2821d5
+台视财经,http://107.150.50.82:81/live/ttvcj.m3u8?tm=1784273401&key=ca46d44dd8ac2679b426cf5fa8828585
+大湾区卫视,http://107.150.42.114:82/live/nfws.m3u8?jsbt=1784273413&jsbk=53a9a41039b01ec845223c1479e247c5&from=zbdq6
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 博斯網球[BoSi Tennis],http://67.220.71.199:2347/livehttpplay?channel_id=42026
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -224,10 +218,6 @@ GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 中国教育3,http://107.150.60.122/live/cetv3.m3u8
 中視新聞HD,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
 EYE戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
 
 
