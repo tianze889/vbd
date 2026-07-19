@@ -300,7 +300,6 @@ IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
-翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
