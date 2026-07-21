@@ -3568,15 +3568,6 @@ CCTV4K,http://182.135.66.163:1888/rtp/239.94.2.163:5140
 喜剧之王,https://c1.rrcdnbf2.com/video/xijuzhiwang1999/HD国语/index.m3u8
 
 🎞️轮播剧场,#genre#
-荒野求生其他,http://cfss.cc/cdn/huya/593667.flv
-野行者其他,http://cfss.cc/cdn/huya/20072663.flv
-跳舞其他,http://cfss.cc/cdn/huya/24634408.flv
-茶啊二中动画,http://cfss.cc/cdn/huya/11213191.flv
-哆啦A梦动漫,http://cfss.cc/cdn/huya/11601963.flv
-航海王动漫,http://cfss.cc/cdn/huya/16913382.flv
-七龙珠动漫,http://cfss.cc/cdn/huya/11601966.flv
-猫和老鼠动漫,http://cfss.cc/cdn/huya/11352879.flv
-中华小当家动漫,http://cfss.cc/cdn/huya/11342413.flv
 新水浒传,http://cfss.cc/cdn/huya/11342384.flv
 神探狄仁杰第一部,http://cfss.cc/cdn/huya/11352958.flv
 神探狄仁杰第三部,http://cfss.cc/cdn/huya/11342425.flv
