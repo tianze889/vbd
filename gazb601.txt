@@ -98,19 +98,6 @@ CCTV1港澳版,https://cdn.qd.je/163189/cctv1
 CCTV13,https://cdn.qd.je/163189/cctv13-2
 
 🚀港澳风云,#genre#
-凤凰中文台,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-民视影劇台,https://cdn12.178.indevs.in/163189/msyj
-靖天戲劇台,https://cdn12.178.indevs.in/163189/jtxj
-靖洋戲劇台,https://cdn12.178.indevs.in/163189/jyxj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
-澳门体育,https://cdn.qd.je/163189.php?id=amty
-无线新闻,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
-无线新闻,https://cdn.qd.je/163189.php?id=wxxw
-翡翠台,https://cdn.qd.je/163189.php?id=fct
-明珠台,https://cdn.qd.je/163189.php?id=mzt
-TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
 TVB娱乐新闻台,https://cdn.qd.je/163189.php?id=ylxw
 TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495602
 TVB1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495604
@@ -133,11 +120,9 @@ RTHK-32,https://cdn.qd.je/163189.php?id=rthk32
 RTHK-33,https://cdn.qd.je/163189.php?id=rthk33
 NOW新闻台,https://cdn.qd.je/163189.php?id=now
 Now18台,http://124.244.129.167:9004/0.ts
-Now18台,http://qingyi.7766.org:9004/0.ts
 VIUTV,https://cdn.qd.je/163189.php?id=viu
 VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 天映频道,https://cdn.qd.je/163189.php?id=typd
 天映经典,https://cdn.qd.je/163189.php?id=ccm
 Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
@@ -184,17 +169,14 @@ Astro AOD,https://cdn.qd.je/163189.php?id=aod
 TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
 靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-
 🇨🇳港台最新,#genre#
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
-翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 翡翠台,https://cdn.qd.je/163189.php?id=fctvtt
 無綫新聞台,https://cdn.qd.je/163189.php?id=wxxwt
-明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://cdn.qd.je/163189.php?id=mztvtt
 TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
@@ -202,8 +184,6 @@ TVB Plus,https://cdn.qd.je/163189.php?id=tvbpvtt
 TVB Plus,https://cdn.qd.je/163189.php?id=tvbp2
 HOY TV,https://cdn.qd.je/163189.php?id=hoy2
 ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
-TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
-TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
 华丽翡翠台,https://cdn.qd.je/163189.php?id=hlfct
 华丽翡翠台,https://cdn.qd.je/163189.php?id=hlt
 华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
@@ -218,7 +198,6 @@ TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&
 星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
 星河台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=5rfJoq&tk=SLK5QjnsRiya
 星河台,https://cdn.qd.je/163189.php?id=tvbxh2
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332332-hyxw.m3u8
 寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
@@ -226,7 +205,6 @@ TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
 天映频道,https://cdn.qd.je/163189.php?id=typd2
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
@@ -242,13 +220,11 @@ TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&
 有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/480p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/360p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/240p-cc/index.m3u8
-Animax (HK),http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
@@ -280,29 +256,24 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 无线新闻台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
 HOY78台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=IWGLtb&tk=4U04NDOE13ra
-
 🔥港台电影,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 Now爆谷星影台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
-Now爆谷星影台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://cdn12.178.indevs.in/163189/amc
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://69.30.245.50/live/chcjt.m3u8
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
-CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
 CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
 CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
@@ -335,7 +306,6 @@ Dream_Works夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 河南乡村,http://zmgd.zyrnet.com:8888/hls/28/index.m3u8
 (国)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-岭南戏曲,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 岷县电视台,http://play.kankanlive.com/live/1672715401874967.m3u8
 嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嶺南戲曲[Lingnan Drama],http://67.220.71.199:2347/livehttpplay?channel_id=20142
@@ -347,9 +317,6 @@ Dream_Works夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
-北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
-华数动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 南国都市4K超高清,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
@@ -361,11 +328,9 @@ Dream_Works夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
