@@ -3808,7 +3808,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 安徽体育,http://202.102.201.244:40022/rtp/238.1.79.41:4440
 安徽国际,http://202.102.201.244:40022/rtp/238.1.78.61:6360
 
-安徽体育,http://hsza.f3322.net:4000/rtp/238.1.79.41:4440
+安徽综艺体育,http://hsza.f3322.net:4000/rtp/238.1.79.41:4440
 安徽公共,http://hsza.f3322.net:4000/rtp/238.1.79.43:4456
 安徽影视,http://hsza.f3322.net:4000/rtp/238.1.79.42:4448
 安徽经济,http://hsza.f3322.net:4000/rtp/238.1.79.44:4464
@@ -3905,14 +3905,6 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 蒙城新闻频道,http://hsza.f3322.net:4000/rtp/238.1.79.19:4264
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 黄山新闻频道,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-肥西新闻综合,http://112.27.235.94:8000/hls/21/index.m3u8
-安徽经济生活,http://112.27.235.94:8000/hls/22/index.m3u8
-安徽公共,http://112.27.235.94:8000/hls/23/index.m3u8
-安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
-安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
-合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-合肥生活,http://112.27.235.94:8000/hls/19/index.m3u8
-合肥科创,http://112.27.235.94:8000/hls/20/index.m3u8
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 JRTV,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
