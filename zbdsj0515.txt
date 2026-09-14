@@ -28,6 +28,7 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 天映频道,http://173.208.234.146/live/typd.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
+纬来日本,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 TVB Plus(字幕),https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY TV,https://fast.hidns.vip/163189/hoy
