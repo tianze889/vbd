@@ -29,6 +29,7 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 无线新闻台,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/stream_0.php
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 天映频道,http://173.208.234.146/live/typd.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
