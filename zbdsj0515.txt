@@ -67,7 +67,6 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
-海峡卫视,https://10.fast.hidns.vip/163189/hxws/
 海峡卫视,https://168.sryze.cc/163189/hxws
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
 天映新加坡,https://10.fast.hidns.vip/163189/typd/
@@ -81,10 +80,6 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
-翡翠台(WebVTT字幕),https://10.fast.hidns.vip/163189/fct/
-明珠台(WebVTT字幕),https://10.fast.hidns.vip/163189/mzt/
-TVB Plus(WebVTT字幕),https://10.fast.hidns.vip/163189/tvbp/
-黄金华剧台(WebVTT字幕),https://10.fast.hidns.vip/163189/hjhjt/
 重温经典,https://168.sryze.cc/163189/cwjd
 广州综合,https://168.sryze.cc/163189/gzzh
 广州新闻,https://168.sryze.cc/163189/gzxw
