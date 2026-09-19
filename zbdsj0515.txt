@@ -110,6 +110,25 @@ NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 
 🌩️云南电信,#genre#
+CCTV1,http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV2,http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV3,http://rihou.cc:555/tv/[mg]CCTV-03
+CCTV4,http://rihou.cc:555/tv/[mg]CCTV-04
+CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV5+,http://rihou.cc:555/tv/[mg]CCTV-5+
+CCTV6,http://rihou.cc:555/tv/[mg]CCTV-06
+CCTV7,http://rihou.cc:555/tv/[mg]CCTV-07
+CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV9,http://rihou.cc:555/tv/[mg]CCTV-09
+CCTV10,http://rihou.cc:555/tv/[mg]CCTV-10
+CCTV11,http://rihou.cc:555/tv/[mg]CCTV-11
+CCTV12,http://rihou.cc:555/tv/[mg]CCTV-12
+CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV14,http://rihou.cc:555/tv/[mg]CCTV-14
+CCTV15,http://rihou.cc:555/tv/[mg]CCTV-15
+CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16
+CCTV17,http://rihou.cc:555/tv/[mg]CCTV-17
+
 CCTV1,http://107.150.52.50:82/live/cctv1.m3u8
 CCTV2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV3,http://192.151.150.154/live/cctv3hd.m3u8
