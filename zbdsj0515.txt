@@ -30,7 +30,10 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
+翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/stream_0.php
+Now 新聞台,https://cdn.qd.je/163189.php?id=now
 ViuTV,https://10.fast.hidns.vip/163189/viu/video/index.php
+HOY TV,https://cdn.qd.je/163189/hoy2
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 天映频道,http://173.208.234.146/live/typd.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
