@@ -25,22 +25,21 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?hls_ctx=8o89406w
-无线新闻台,http://iactive-clink.com:8081/live/yifaTV-007.m3u8?hls_ctx=1t855964
+无线新闻台,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻台,http://173.208.234.146/live/wxxwt.m3u8
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/stream_0.php
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/stream_0.php
-Now 新聞台,https://cdn.qd.je/163189.php?id=now
 ViuTV,https://10.fast.hidns.vip/163189/viu/video/index.php
-HOY TV,https://cdn.qd.je/163189/hoy2
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 天映频道,http://173.208.234.146/live/typd.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
 纬来日本,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
-翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
-TVB Plus(字幕),https://cdn3.indevs.in/stream/tvb/tvbp/
+翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY TV,https://fast.hidns.vip/163189/hoy
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
@@ -49,8 +48,8 @@ ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
 NOW新闻台,https://fast.hidns.vip/163189/now
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
-翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
-明珠台(字幕),https://cdn3.indevs.in/stream/tvb/mzt/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
