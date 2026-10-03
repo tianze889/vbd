@@ -125,7 +125,6 @@ TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -138,29 +137,15 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
 Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 RTHKTV31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-TITV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-中視,http://173.208.234.146/live/ctv.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-民視,http://173.208.234.146/live/ftv.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-臺視,http://173.208.234.146/live/ttv.m3u8
-臺視新聞,http://173.208.234.146/live/ttvnews.m3u8
-臺視綜合,http://173.208.234.146/live/ttvzh.m3u8
-臺視財經,http://173.208.234.146/live/ttvcj.m3u8
-華視教育體育文化,http://173.208.234.146/live/ctsjy.m3u8
 鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
@@ -175,6 +160,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 東森新聞,http://211.72.174.95:8138/0.ts
 
 🌸四季台湾,#genre#
+
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
