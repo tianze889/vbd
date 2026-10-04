@@ -7,8 +7,8 @@
 捐赠10元可获取,https://cdn3.indevs.in/stream/tvb/mzt/
 4K高清影视软件2个,https://fast.hidns.vip/163189/now
 捐赠10元可获取,https://cdn11.163189.xyz/163189/hoy76
-最新本版电视家,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-捐赠30元可获取,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+最新本版电视家,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=ee6fda7c4bae12db
+捐赠30元可获取,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=d709c502a39bc7f2
 最新港澳台直播,https://168.sryze.cc/163189/cwjd
 65元U盘版港澳台软件,https://cdn3.indevs.in/stream/live/jade/
 包稳定流畅长期能用,https://cdn3.indevs.in/stream/live/tvbxh/
@@ -16,7 +16,7 @@
 需要加微信号,https://cdn12.178.indevs.in/163189/jyxj
 zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 捐赠后留言领取,https://cdn3.indevs.in/stream/live/tvbc/
-感谢支持！,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
+感谢支持！,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=27ef1448d87bba2b
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -29,10 +29,7 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 中天新闻,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=27ef1448d87bba2b
 中天新闻,http://bl.pedrollo.org/live/ac2972ff82d8d0946172ca3d646dfaa5.flv
 中天新闻,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=a125111ce75802ee
-中天新闻,http://bl.pedrollo.org/live/ac2972ff82d8d0946172ca3d646dfaa5.flv
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
-无线新闻台,https://rtmp1a.pstatp.com/live/435725ddaabd48f0ad5a206da294b944.flv
-无线新闻台,http://221.229.165.144/ali-sgp-hlspull.snackvideo.in/live/088dc7a32dd8a92a7ae7994d3d14fa1a.flv
 无线新闻台(北美),http://cdn6.123.rr.kg/163189/wxxwt
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/stream_0.php
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
@@ -40,11 +37,6 @@ TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/stream_0.php
 ViuTV,https://10.fast.hidns.vip/163189/viu/video/index.php
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-天映频道,http://173.208.234.146/live/typd.m3u8
-爆谷台,http://173.208.234.146/live/nowbg.m3u8
-星影台,http://173.208.234.146/live/nowxy.m3u8
-纬来日本,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY TV,https://fast.hidns.vip/163189/hoy
@@ -57,19 +49,6 @@ RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东体育,https://2.fast.hidns.vip/163189/gdty
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
@@ -79,7 +58,6 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
-金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
 海峡卫视,https://168.sryze.cc/163189/hxws
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
 天映新加坡,https://10.fast.hidns.vip/163189/typd/
@@ -97,7 +75,6 @@ TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 广州综合,https://168.sryze.cc/163189/gzzh
 广州新闻,https://168.sryze.cc/163189/gzxw
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
-五星体育,https://cdn15.163189.xyz/163189/wxty
 Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
