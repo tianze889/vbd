@@ -595,6 +595,70 @@ TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 龙祥时代,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=4Vqzbo&tk=SLK5QjnsRiya
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
+🏵️港台影视🏵️,#genre#
+TVB 功夫台(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=b023ae7e64101d3f
+TVB 功夫台(普通话),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=c88fd1b671306317
+TVB 星河频道(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=8c7bad79b4c33ea9
+TVB 星河频道(普通话),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=96a78b53440954bf
+美亚电影台(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=0526ae459b6635a5
+美亚电影台(普通话 HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=b4a0a2aebddca971
+天映频道(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=ba22dfe00b503179
+天映频道(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=0c634e4878f6a6ad
+POPC,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=0946e5c5368a94d4
+澳门莲花卫视,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=f422350db9932f60
+重温经典,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=9b1d2b9d1078a1a0
+中国电影频道(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=9a6f9b543b0f0f44
+Thrill(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=19cb1688e869f6de
+天映经典频道(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=01ed6c5a950f6aa8
+Kix,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=759c1fb43e79f51a
+HBO(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=1d312268c5ec6af9
+HBO Hits(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=d9a63f3bf97fa8ab
+HBO Family(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=a61df9398fd98bfc
+HBO Signature(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=351f18a385925e69
+HBO(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=22071fd95fed77bc
+HBO Hits(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=6a118619c17f20a1
+HBO Family(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=e6beb1632c11cbc3
+Cinemax(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=7e40575ffc4a62e1
+Cinemax,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=12cf1922874a2256
+Cinemax HD,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=255744906930a6b0
+AXN(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=f6e5d08458fc9f7a
+AXN(TW),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=65068d32d581da34
+东森电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=9eae163aa2783506
+东森洋片台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=800f80a6ffab91bb
+龙华电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=9d3ea401c3bcb30b
+靖天电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=c41ed8f026843970
+Thrill惊悚,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=2f18eb2e7c08563c
+龙祥时代电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=0d4cc326aac499df
+AMC最爱电影,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=caabfcac42cc0348
+CatchPlay电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=d138a0635a35d850
+ROCK Extreme(TW),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=22f62fade7c141e6
+ROCK Entertainment(TW),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=d79dea8564bff89b
+ROCK Entertainment(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=2a0bf17c9eff58e0
+ROCK Action(TW),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=af3bfa450f33969b
+ROCK Action(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=b97efd7a8bd81c3e
+ROCK Action(SG),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=ed955b64ca4cf173
+ROCK 综艺娱乐,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=0769f3658fa1caea
+MyCinemaEurope,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=cb5144420581572b
+Astro BOO(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=49aeb3d54f8b06a5
+WarnerTV(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=053c793bc4e62d85
+Hits(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=f6bc374bcaf5b932
+Hits Movies(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=24f9603f25979ca7
+Hits Now(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=27b08ef27a32bf01
+Showcase Movies(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=286d2ed20370137b
+tvN(HK),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=45f21f607c523d8d
+tvN(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=7d5f1f5c330bc205
+tvN Movies(MY),http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=3d6f46d24f04d6c7
+经典电影台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=67dafa76decfd272
+电影免費看2,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=d6582a0d01dbf7f1
+电影原聲台,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=8b481c1cbc60db9b
+CCTV6,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=78b1f3f829055ece
+Channel China HD,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=eb0ab6d6e3ab6b34
+THE Movie HD,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=770793ac81757e7b
+Playy Well HD,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=a6474545e3166243
+Playy Action Movie HD,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=96f682106b07e842
+CATCH ON1,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=6c06159f08338699
+CATCH ON2,http://159.75.4.149:99/清风/iptv.php?token=115977df3371699d3cac66e0c3b2eadc&ch=6df8da05d6facae6
+
 🇨🇳港台最新,#genre#
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
