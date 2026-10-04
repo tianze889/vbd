@@ -5040,8 +5040,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
 📻广东频道,#genre#
-广东珠江,http://8.138.7.223/tv/gdzj.m3u8
-大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
@@ -5061,7 +5059,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=b12257737dcebc4227bca82b77af650c&txTime=1956eaafce4
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
-广州都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 4K南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=daf0738d94787ac64d25644076012591&txTime=1956eaafce4
@@ -5070,7 +5067,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 东莞新闻频道,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&ttl=3600&key=427e13368d7e4211bb3f1f6432084b3f
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&ttl=3600&key=2fad2b96c81c38c8e6b189c552c0f8ca
-韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 汕头综合,http://lsa.familyds.com:8188/udp/239.253.43.45:5146
 汕头综合,http://plex.cyruslee.top:8888/udp/239.253.43.45:5146
 汕头综合,http://ikuai.cyruslee.top:8888/udp/239.253.43.45:5146
@@ -5078,7 +5074,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 汕头经济生活,http://www.3344.uk:8888/udp/239.253.43.46:5146
 汕头经济生活,http://plex.cyruslee.top:8888/udp/239.253.43.46:5146
 汕头经济生活,http://hongzhijiaoyu.net:8188/udp/239.253.43.46:5146
-汕头经济生活,http://www.syy3.top:3861/udp/239.253.43.46:5146
 汕头经济生活,http://61.145.188.90:50055/udp/239.253.43.46:5146
 南国都市,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=shenghuo
 广州综合,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=zhonghe
@@ -5087,17 +5082,12 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 番禺,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.m3u8
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-广州综合,http://rihou.cc:555/tv/[Cx]广州综合
-广州新闻,http://rihou.cc:555/tv/[Cx]广州新闻
 广州南国,http://rihou.cc:555/tv/[Cx]广州南国
 揭阳综合,http://hongzhijiaoyu.net:8188/udp/239.77.0.229:5146
 揭阳生活,http://hongzhijiaoyu.net:8188/udp/239.77.0.251:5146
 汕尾综合,http://hongzhijiaoyu.net:8188/udp/239.77.0.25:5146
 汕尾生活,http://hongzhijiaoyu.net:8188/udp/239.77.0.187:5146
 汕头综合,http://hongzhijiaoyu.net:8188/udp/239.253.43.45:5146
-汕头生活,http://hongzhijiaoyu.net:8188/udp/239.253.43.46:5146
 潮州综合,http://hongzhijiaoyu.net:8188/udp/239.253.43.70:5146
 潮州民生,http://hongzhijiaoyu.net:8188/udp/239.253.43.75:5146
 广东卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.84:5146
@@ -5142,22 +5132,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 大湾区卫视,http://www.yahao.host:4022/udp/239.77.0.215:5146
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
-揭阳生活,http://www.syy3.top:3861/udp/239.77.0.251:5146
-汕尾综合,http://www.syy3.top:3861/udp/239.77.0.25:5146
-汕尾生活,http://www.syy3.top:3861/udp/239.77.0.187:5146
-汕头综合,http://www.syy3.top:3861/udp/239.253.43.45:5146
-汕头生活,http://www.syy3.top:3861/udp/239.253.43.46:5146
-潮州综合,http://www.syy3.top:3861/udp/239.253.43.70:5146
-潮州民生,http://www.syy3.top:3861/udp/239.253.43.75:5146
-广东卫视,http://www.syy3.top:3861/udp/239.77.0.84:5146
-广东珠江,http://www.syy3.top:3861/udp/239.77.0.1:5146
-广东新闻,http://www.syy3.top:3861/udp/239.77.0.173:5146
-广东民生,http://www.syy3.top:3861/udp/239.77.0.225:5146
-广东体育,http://www.syy3.top:3861/udp/239.77.0.112:5146
-经济科教,http://www.syy3.top:3861/udp/239.77.0.85:5146
-大湾区卫视,http://www.syy3.top:3861/udp/239.77.0.215:5146
-广东影视,http://www.syy3.top:3861/udp/239.77.0.217:5146
-广东少儿,http://www.syy3.top:3861/udp/239.77.0.250:5146
 揭阳综合,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.229:5146
 揭阳生活,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.251:5146
 汕尾综合,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.25:5146
@@ -5179,7 +5153,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 揭阳生活,http://plex.cyruslee.top:8888/udp/239.77.0.251:5146
 汕尾综合,http://plex.cyruslee.top:8888/udp/239.77.0.25:5146
 汕尾生活,http://plex.cyruslee.top:8888/udp/239.77.0.187:5146
-汕头生活,http://plex.cyruslee.top:8888/udp/239.253.43.46:5146
 潮州综合,http://plex.cyruslee.top:8888/udp/239.253.43.70:5146
 潮州民生,http://plex.cyruslee.top:8888/udp/239.253.43.75:5146
 广东卫视,http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
@@ -5213,7 +5186,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 汕尾综合,http://www.3344.uk:8888/udp/239.77.0.25:5146
 汕尾生活,http://www.3344.uk:8888/udp/239.77.0.187:5146
 汕头综合,http://www.3344.uk:8888/udp/239.253.43.45:5146
-汕头生活,http://www.3344.uk:8888/udp/239.253.43.46:5146
 潮州综合,http://www.3344.uk:8888/udp/239.253.43.70:5146
 潮州民生,http://www.3344.uk:8888/udp/239.253.43.75:5146
 广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
@@ -5262,7 +5234,6 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 揭阳生活,http://61.145.188.90:50055/udp/239.77.0.251:5146
 汕尾综合,http://61.145.188.90:50055/udp/239.77.0.25:5146
 汕尾生活,http://61.145.188.90:50055/udp/239.77.0.187:5146
-汕头生活,http://61.145.188.90:50055/udp/239.253.43.46:5146
 潮州综合,http://61.145.188.90:50055/udp/239.253.43.70:5146
 潮州民生,http://61.145.188.90:50055/udp/239.253.43.75:5146
 广东卫视,http://61.145.188.90:50055/udp/239.77.0.84:5146
