@@ -156,7 +156,7 @@ Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
 Sports-3',http://iptv.4666888.xyz/iptv2A.php?id=3
 
 🌩️云南电信,#genre#
-CCTV1,http://k.01899.xyz/m.php?id=cctv1
+CCTV1,http://k.061899.xyz/m.php?id=cctv1
 CCTV2,http://k.061899.xyz/m.php?id=cctv2
 CCTV3,http://k.061899.xyz/m.php?id=cctv3
 CCTV4,http://k.061899.xyz/m.php?id=cctv4
@@ -235,26 +235,26 @@ CCTV-17HD,http://cg1.hunancatv.cn:9090/live/CCTV17_8000.m3u8?deviceid=8662650398
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 
 
-CCTV1HD,http://home.kqysw.com:4000/udp/239.254.96.96:8550
-CCTV2HD,http://home.kqysw.com:4000/udp/239.69.1.102:10250
-CCTV3HD,http://home.kqysw.com:4000/udp/239.69.1.122:10370
-CCTV4HD,http://home.kqysw.com:4000/udp/239.69.1.138:10466
-CCTV5HD,http://home.kqysw.com:4000/udp/239.69.1.123:10376
-CCTV6HD,http://home.kqysw.com:4000/udp/239.69.1.124:10382
-CCTV7HD,http://home.kqysw.com:4000/udp/239.69.1.103:10256
-CCTV8HD,http://home.kqysw.com:4000/udp/239.69.1.125:10388
-CCTV9HD,http://home.kqysw.com:4000/udp/239.69.1.104:10262
-CCTV10HD,http://home.kqysw.com:4000/udp/239.69.1.105:10268
-CCTV11HD,http://home.kqysw.com:4000/udp/239.69.1.154:10560
-CCTV12HD,http://home.kqysw.com:4000/udp/239.69.1.106:10274
-CCTV13HD,http://home.kqysw.com:4000/udp/239.254.97.161:9040
-CCTV14HD,http://home.kqysw.com:4000/udp/239.69.1.107:10280
-CCTV15HD,http://home.kqysw.com:4000/udp/239.69.1.155:10566
-CCTV16HD,http://home.kqysw.com:4000/udp/239.69.1.247:11124
-CCTV17HD,http://home.kqysw.com:4000/udp/239.69.1.152:10548
-CCTV5HD,http://home.kqysw.com:4000/udp/239.254.97.234:9484
-CCTV4K,http://home.kqysw.com:4000/udp/239.69.1.111:10304
-CCTV16-4K,http://home.kqysw.com:4000/udp/239.69.1.249:11136
+CCTV-1HD,http://home.kqysw.com:4000/udp/239.254.96.96:8550
+CCTV-2HD,http://home.kqysw.com:4000/udp/239.69.1.102:10250
+CCTV-3HD,http://home.kqysw.com:4000/udp/239.69.1.122:10370
+CCTV-4HD,http://home.kqysw.com:4000/udp/239.69.1.138:10466
+CCTV-5HD,http://home.kqysw.com:4000/udp/239.69.1.123:10376
+CCTV-6HD,http://home.kqysw.com:4000/udp/239.69.1.124:10382
+CCTV-7HD,http://home.kqysw.com:4000/udp/239.69.1.103:10256
+CCTV-8HD,http://home.kqysw.com:4000/udp/239.69.1.125:10388
+CCTV-9HD,http://home.kqysw.com:4000/udp/239.69.1.104:10262
+CCTV-10HD,http://home.kqysw.com:4000/udp/239.69.1.105:10268
+CCTV-11HD,http://home.kqysw.com:4000/udp/239.69.1.154:10560
+CCTV-12HD,http://home.kqysw.com:4000/udp/239.69.1.106:10274
+CCTV-13HD,http://home.kqysw.com:4000/udp/239.254.97.161:9040
+CCTV-14HD,http://home.kqysw.com:4000/udp/239.69.1.107:10280
+CCTV-15HD,http://home.kqysw.com:4000/udp/239.69.1.155:10566
+CCTV-16HD,http://home.kqysw.com:4000/udp/239.69.1.247:11124
+CCTV-17HD,http://home.kqysw.com:4000/udp/239.69.1.152:10548
+CCTV-5HD,http://home.kqysw.com:4000/udp/239.254.97.234:9484
+CCTV-4K,http://home.kqysw.com:4000/udp/239.69.1.111:10304
+CCTV-16-4K,http://home.kqysw.com:4000/udp/239.69.1.249:11136
 CCTV4中文国际欧洲HD,http://home.kqysw.com:4000/udp/239.69.1.231:11028
 CCTV4中文国际美洲HD,http://home.kqysw.com:4000/udp/239.69.1.232:11034
 CGTN英文纪录HD,http://home.kqysw.com:4000/udp/239.69.1.233:11040
