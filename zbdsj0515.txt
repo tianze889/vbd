@@ -27,7 +27,7 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?hls_ctx=8o89406w
 中天新闻,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=27ef1448d87bba2b
-中天新闻,http://bl.pedrollo.org/live/ac2972ff82d8d0946172ca3d646dfaa5.flv
+中天新闻,http://23.251.117.111/pull-f5-mptcp.flive.douyincdn.com/live/qQCSqauKOd1EAXlmeZ336Ziu5DdwHh.flv
 中天新闻,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=a125111ce75802ee
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
 无线新闻台(北美),http://cdn6.123.rr.kg/163189/wxxwt
