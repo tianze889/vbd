@@ -7,7 +7,7 @@
 捐赠10元可获取,https://cdn3.indevs.in/stream/tvb/mzt/
 4K高清影视软件2个,https://fast.hidns.vip/163189/now
 捐赠10元可获取,https://cdn11.163189.xyz/163189/hoy76
-最新本版电视家,http://23.251.117.111/pull-f5-mptcp.flive.douyincdn.com/live/qQCSqauKOd1EAXlmeZ336Ziu5DdwHh.flv
+最新本版电视家,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 捐赠30元可获取,http://cdn6.123.rr.kg/163189/wxxw
 最新港澳台直播,https://168.sryze.cc/163189/cwjd
 65元U盘版港澳台软件,https://cdn3.indevs.in/stream/live/jade/
@@ -16,7 +16,7 @@
 需要加微信号,https://cdn12.178.indevs.in/163189/jyxj
 zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 捐赠后留言领取,https://cdn3.indevs.in/stream/live/tvbc/
-感谢支持！,http://23.251.117.111/pull-f5-mptcp.flive.douyincdn.com/live/qQCSqauKOd1EAXlmeZ336Ziu5DdwHh.flv
+感谢支持！,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -26,7 +26,15 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 凤凰资讯,http://cg13.hunancatv.cn:9090/live/FHZX_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295286132&srchost=172.16.22.158:8060&gid=eedm9Rh1FLzBMao0Mi%2Fc7w%3D%3D
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?hls_ctx=8o89406w
-中天新闻,http://23.251.117.111/pull-f5-mptcp.flive.douyincdn.com/live/qQCSqauKOd1EAXlmeZ336Ziu5DdwHh.flv
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
 无线新闻台(北美),http://cdn6.123.rr.kg/163189/wxxwt
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/stream_0.php
@@ -81,8 +89,6 @@ ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JP9JTo&tk=B9eddFxBG9JM
-中天新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G8vMmy&tk=B9eddFxBG9JM
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
