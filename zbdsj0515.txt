@@ -431,6 +431,26 @@ CETV 1 中国教育,http://k.061899.xyz/k.php?id=cetv1
 CETV 2 中国教育,http://k.061899.xyz/k.php?id=cetv2
 CETV 4 中国教育,http://k.061899.xyz/k.php?id=cetv4
 
+CCTV-1综合,http://192.151.150.154/live/cctv1hd.m3u8
+CCTV-2财经,http://192.151.150.154/live/cctv2hd.m3u8
+CCTV-3综艺,http://192.151.150.154/live/cctv3hd.m3u8
+CCTV-4中文国际,http://192.151.150.154/live/cctv4hd.m3u8
+CCTV-5体育,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5+体育赛事,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-6电影,http://192.151.150.154/live/cctv6hd.m3u8
+CCTV-7国防军事,http://192.151.150.154/live/cctv7hd.m3u8
+CCTV-8电视剧,http://192.151.150.154/live/cctv8hd.m3u8
+CCTV-9纪录,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-10科教,http://192.151.150.154/live/cctv10hd.m3u8
+CCTV-11戏曲,http://192.151.150.154/live/cctv11hd.m3u8
+CCTV-12社会与法,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-13新闻,http://192.151.150.154/live/cctv13hd.m3u8
+CCTV-14少儿,http://192.151.150.154/live/cctv14hd.m3u8
+CCTV-15音乐,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-17农业农村,http://192.151.150.154/live/cctv17hd.m3u8
+CCTV4K,http://192.151.150.154/live/cctv4k.m3u8
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
+
 CCTV-1综合,http://j.s.bkpcp.top/jj/cctv1
 CCTV-2财经,http://j.s.bkpcp.top/jj/cctv2
 CCTV-3综艺,http://j.s.bkpcp.top/jj/cctv3
@@ -615,6 +635,22 @@ NBA经典,http://k.061899.xyz/k.php?id=nba
 云南卫视,http://j.s.bkpcp.top/jj/ynws
 贵州卫视,http://j.s.bkpcp.top/jj/gzws
 四川卫视,http://j.s.bkpcp.top/jj/scws
+
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
+浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
+江苏卫视,http://192.151.150.154/live/jswshd.m3u8
+湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k
+北京卫视,http://192.151.150.154/live/bjwshd.m3u8
+东方卫视,http://192.151.150.154/live/dfwshd.m3u8
+广东卫视,http://192.151.150.154/live/gdwshd.m3u8
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
+浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+广东卫视,http://198.204.228.26/live/gdwshd.m3u8
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 
 湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
 江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
