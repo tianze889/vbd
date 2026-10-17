@@ -4,6 +4,7 @@
 制作维护,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 捐赠5元获取1,https://cdn3.indevs.in/stream/tvb/fct4k/
 捐赠5元获取1,https://23.134.76.52/stream/tvb/fct4k/stream_0.php?__pot=aHR0cHM6Ly9jZG4zLmluZGV2cy5pbg
+捐赠5元获取1,https://217.154.250.99/stream/tvb/fct4k/?__pot=aHR0cHM6Ly9jZG4zLmluZGV2cy5pbg
 频道密码,https://cdn3.indevs.in/stream/tvb/tvbp/
 捐赠10元可获取,https://cdn3.indevs.in/stream/tvb/mzt/
 4K高清影视软件2个,https://fast.hidns.vip/163189/now
