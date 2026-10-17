@@ -9203,7 +9203,7 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 金针菇豆腐蛋花汤,https://vd3.bdstatic.com/mda-jg1ccbqk185isyua/sc/mda-jg1ccbqk185isyua.mp4
 
 抖音直播,#genre#,DE=3
-央视网,http://cfss.cc/cdn/dy/cctv.com.flv
+央视网1,http://cfss.cc/cdn/dy/456815963645.flv
 小央视频,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV4,http://cfss.cc/cdn/dy/CCTV4...flv
 央视网快看,http://cfss.cc/cdn/dy/kuaikancctv.flv
