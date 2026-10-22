@@ -39,6 +39,22 @@ TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 无线新闻台,http://cc.123.rr.kg/163189/wxxwt
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
 无线新闻台(北美),http://cdn6.123.rr.kg/163189/wxxwt
+TVB1,http://cc.123.rr.kg/163189/tvb1
+TVBJ1,http://cc.123.rr.kg/163189/j1
+TVB亚洲武侠,http://cc.123.rr.kg/163189/yzwx
+TVB娱乐新闻台,http://cc.123.rr.kg/163189/ylxw
+TVB星河,http://cc.123.rr.kg/163189/tvbxh
+凤凰中文,http://cc.123.rr.kg/163189/fhzw
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx
+凤凰香港,http://cc.123.rr.kg/163189/fhhk
+华丽翡翠台,http://cc.123.rr.kg/163189/hlfct
+华丽翡翠台,http://cc.123.rr.kg/163189/jade
+国学频道,http://ysp789.lyyytv.cn/yspdlb.php?id=gxpd
+无线新闻台,http://cc.123.rr.kg/163189/wxxw
+无线新闻台,http://cc.123.rr.kg/163189/wxxwt
+翡翠剧,http://cc.123.rr.kg/163189/tvbd
+翡翠台,http://cc.123.rr.kg/163189/fct
+重温经典,http://cc.123.rr.kg/163189/cwjd
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/stream_0.php
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
