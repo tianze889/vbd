@@ -362,7 +362,6 @@ CGTN俄语,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm.php?token=175c5beaf14e5
 中学生,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm.php?token=64937c43abb50a0e7baaf718e3f7cf&i=0
 CGTN,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm.php?token=b21035b149a8ca738eb62e01527758&i=0
 
-
 CCTV-1综合,http://36.212.23.253:5500/migu11/migu.php?id=608807420
 CCTV-2财经,https://pull-hls-f11.douyincdn.com/media/stream-120222380172772012_hd.m3u8?expire=1792923330&sign=b768cc95de2b816b124b2967d4b3d84d&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261018181530C9F0B842A3B63C6B4450-js90TK
 CCTV-6电影,https://pull-hls-f11.douyinliving.com/media/stream-120260830078698322.m3u8?expire=1792923150&sign=80f349f16fb170eddd16f4d82093fc31&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-2026101818123017EC0ACEF390F32B1C02-TyqOkm
