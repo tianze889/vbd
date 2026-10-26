@@ -263,10 +263,14 @@ CGTN,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm.php?token=b21035b149a8ca738eb
 
 CCTV-1综合,http://36.212.23.253:5500/migu11/migu.php?id=608807420
 CCTV-2财经,https://pull-hls-f11.douyincdn.com/media/stream-120222380172772012_hd.m3u8?expire=1792923330&sign=b768cc95de2b816b124b2967d4b3d84d&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261018181530C9F0B842A3B63C6B4450-js90TK
+CCTV-3综艺,https://pull-hls-f11.douyincdn.com/media/stream-120321800479965868_hd.m3u8?expire=1793607344&sign=f83351638ea5393bad0aca5eea032682&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261026161543815A821EE5AE06866E49-9oHEiR
 CCTV-6电影,https://pull-hls-f11.douyinliving.com/media/stream-120260830078698322.m3u8?expire=1792923150&sign=80f349f16fb170eddd16f4d82093fc31&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-2026101818123017EC0ACEF390F32B1C02-TyqOkm
 CCTV-9纪录,https://pull-hls-f26.douyincdn.com/media/stream-120278572572607148.m3u8?expire=6addd656&sign=ac3c01f744131156843b8673903fbf23&arch_hrchy=w1&major_anchor_level=common&exp_hrchy=w1&t_id=037-202610181813423D0B49E64510BAE7009C-FMWMzu
+CCTV-9纪录,https://pull-hls-f1.douyincdn.com/media/stream-696783228633350828_hd/playlist.m3u8?keeptime=00093a80&wsSecret=544482b70fd22f9179d636313eb5c1f7&wsTime=6adf0bb7&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20261026161342AC41C58F97C22900AF21-jizSF5
+CCTV-10科教,https://pull-hls-f11.douyincdn.com/media/stream-408554994668405420_hd.m3u8?expire=1793607111&sign=2525a53b51cd802949273e8152aeddee&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202610261611510111C5C40F02F9F6556E-NjnXl7
 CCTV-13新闻,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV-13新闻,https://pull-hls-f11.douyinliving.com/media/stream-408453036241847122_hd.m3u8?expire=1792916353&sign=7fb735b6b8ae8bd68da70d633d045411&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20261018161913CBA9FA095ECFD16CBA8F-4jy18S
+CCTV-13新闻,https://pull-f3.douyinliving.com/media/stream-408549944117429074_hd.m3u8?auth_key=1793605251-0-0-e1697c507ad2e15a399dc4053d3c404e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202610261610506B669068F2183DDDCFE0-GtNQN9
 CCTV-17农业农村,https://pull-hls-f26.douyincdn.com/media/stream-120275705688228524_hd.m3u8?expire=6addd561&sign=ffc38da86721463d5258ebb9ced0bde2&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026101818093637EDED0ADA29B4205E3A-QgkeJC
 
 CCTV-1综合,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm.php?token=03d8dcc2b4ddb6669ff9ee80ef9bbc&i=0
