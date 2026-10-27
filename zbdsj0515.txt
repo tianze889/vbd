@@ -1239,24 +1239,6 @@ CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 
 🛰️央卫高清1,#genre#
-CCTV1,https://p-drm.aliiptv.com/live/cctv1.m3u8?verify=1793004190-mapokzudZ1LprRZB3rjxVD8QmO6pgFDs2vwudjh59Wk
-CCTV2,https://p-drm.aliiptv.com/live/cctv2.m3u8?verify=1793004194-J2B7bm7xZPWqwwjK94tmaPPH2fmTjaWiTy9L-UPUOZQ
-CCTV3,https://p-drm.aliiptv.com/live/cctv3.m3u8?verify=1793004197-OsMrwZVQB4osa6kCYn5keHPXm7R773F6ojxC-oPQOxg
-CCTV4,https://p-drm.aliiptv.com/live/cctv4.m3u8?verify=1793004202-q3YdTJT-XQNY2FEjuaqv5zZ1BOeJYGTvrXRkFEGBRDA
-CCTV5,https://p-drm.aliiptv.com/live/cctv5.m3u8?verify=1793004205-mGfERlVSXyjX3uwI-tuOFJkJDU_9bfGvrVvt0gOCINY
-CCTV6,https://p-drm.aliiptv.com/live/cctv6.m3u8?verify=1793004207-BqLzWD2ndF-7pkGcKOVEURhw48yLmx4XgSAU4pmETO0
-CCTV7,https://p-drm.aliiptv.com/live/cctv7.m3u8?verify=1793004210-vEEOCuCOrutMQRQL3Lr-MPLGbGTvWS4IvU8Tm1kEDJE
-CCTV8,https://p-drm.aliiptv.com/live/cctv8.m3u8?verify=1793004212-wa8ZQWsgHKVsAuAl9N0G6ijiTL2SPiNBb25nM8t2NAM
-CCTV9,https://p-drm.aliiptv.com/live/cctv9.m3u8?verify=1793004215-t4N4bNtL6QgwcN7_vjgcMDBvhBf6EKDH4i548VvTQMQ
-CCTV10,https://p-drm.aliiptv.com/live/cctv10.m3u8?verify=1793004218-z2q9oUY5SyoZZfOqj1UuOZr3vUwiNUxZnTfPJ_e6ctY
-CCTV11,https://p-drm.aliiptv.com/live/cctv11.m3u8?verify=1793004220-y_f2ivE79T3JNAjWNCq3Ss5liUKgWljKeyyHGP6CSq8
-CCTV12,https://p-drm.aliiptv.com/live/cctv12.m3u8?verify=1793004223-ArmNWqMGXlGE0Vd_YUVlLWS5cPbRpSvk9vzzw4dul-M
-CCTV13,https://p-drm.aliiptv.com/live/cctv13.m3u8?verify=1793004226--7ouVAqrQ3Bd-7XkczrSZhMGfDZ6OluQ-TPk1HdUu9M
-CCTV14,https://p-drm.aliiptv.com/live/cctv14.m3u8?verify=1793004228-RHUio6jJpx_PtDjH4DWXYxN_L1MucPD5svhH3Z9omc0
-CCTV15,https://p-drm.aliiptv.com/live/cctv15.m3u8?verify=1793004231-CLkfQIiiyIJi3BNhUtCYySzPNi_UrdSOY2AbFDE1L2s
-CCTV16,https://p-drm.aliiptv.com/live/cctv16.m3u8?verify=1793004233-1m-k5l54RmJglnlsbOadDKamPop-ht4eql2PmNDtHBE
-CCTV17,https://p-drm.aliiptv.com/live/cctv17.m3u8?verify=1793004236-S9SMwzhVDSBKcayUulaI6yiuUg9obdg9Nroyyg8RKbY
-
 CCTV1,http://221.197.236.17:4000/cctv1/playlist.m3u8
 CCTV2,http://221.197.236.17:4000/cctv2/playlist.m3u8
 CCTV3,http://221.197.236.17:4000/cctv3/playlist.m3u8
@@ -1384,24 +1366,6 @@ CETV4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 
 
 📺央卫高清2,#genre#
-CCTV1,https://p-drm.aliiptv.com/live/cctv1.m3u8?verify=1793004190-mapokzudZ1LprRZB3rjxVD8QmO6pgFDs2vwudjh59Wk
-CCTV2,https://p-drm.aliiptv.com/live/cctv2.m3u8?verify=1793004194-J2B7bm7xZPWqwwjK94tmaPPH2fmTjaWiTy9L-UPUOZQ
-CCTV3,https://p-drm.aliiptv.com/live/cctv3.m3u8?verify=1793004197-OsMrwZVQB4osa6kCYn5keHPXm7R773F6ojxC-oPQOxg
-CCTV4,https://p-drm.aliiptv.com/live/cctv4.m3u8?verify=1793004202-q3YdTJT-XQNY2FEjuaqv5zZ1BOeJYGTvrXRkFEGBRDA
-CCTV5,https://p-drm.aliiptv.com/live/cctv5.m3u8?verify=1793004205-mGfERlVSXyjX3uwI-tuOFJkJDU_9bfGvrVvt0gOCINY
-CCTV6,https://p-drm.aliiptv.com/live/cctv6.m3u8?verify=1793004207-BqLzWD2ndF-7pkGcKOVEURhw48yLmx4XgSAU4pmETO0
-CCTV7,https://p-drm.aliiptv.com/live/cctv7.m3u8?verify=1793004210-vEEOCuCOrutMQRQL3Lr-MPLGbGTvWS4IvU8Tm1kEDJE
-CCTV8,https://p-drm.aliiptv.com/live/cctv8.m3u8?verify=1793004212-wa8ZQWsgHKVsAuAl9N0G6ijiTL2SPiNBb25nM8t2NAM
-CCTV9,https://p-drm.aliiptv.com/live/cctv9.m3u8?verify=1793004215-t4N4bNtL6QgwcN7_vjgcMDBvhBf6EKDH4i548VvTQMQ
-CCTV10,https://p-drm.aliiptv.com/live/cctv10.m3u8?verify=1793004218-z2q9oUY5SyoZZfOqj1UuOZr3vUwiNUxZnTfPJ_e6ctY
-CCTV11,https://p-drm.aliiptv.com/live/cctv11.m3u8?verify=1793004220-y_f2ivE79T3JNAjWNCq3Ss5liUKgWljKeyyHGP6CSq8
-CCTV12,https://p-drm.aliiptv.com/live/cctv12.m3u8?verify=1793004223-ArmNWqMGXlGE0Vd_YUVlLWS5cPbRpSvk9vzzw4dul-M
-CCTV13,https://p-drm.aliiptv.com/live/cctv13.m3u8?verify=1793004226--7ouVAqrQ3Bd-7XkczrSZhMGfDZ6OluQ-TPk1HdUu9M
-CCTV14,https://p-drm.aliiptv.com/live/cctv14.m3u8?verify=1793004228-RHUio6jJpx_PtDjH4DWXYxN_L1MucPD5svhH3Z9omc0
-CCTV15,https://p-drm.aliiptv.com/live/cctv15.m3u8?verify=1793004231-CLkfQIiiyIJi3BNhUtCYySzPNi_UrdSOY2AbFDE1L2s
-CCTV16,https://p-drm.aliiptv.com/live/cctv16.m3u8?verify=1793004233-1m-k5l54RmJglnlsbOadDKamPop-ht4eql2PmNDtHBE
-CCTV17,https://p-drm.aliiptv.com/live/cctv17.m3u8?verify=1793004236-S9SMwzhVDSBKcayUulaI6yiuUg9obdg9Nroyyg8RKbY
-
 CCTV1,http://101.42.10.147:226/cct/ys.php?id=cctv1
 CCTV2,http://101.42.10.147:226/cct/ys.php?id=cctv2
 CCTV3,http://101.42.10.147:226/cct/ys.php?id=cctv3
