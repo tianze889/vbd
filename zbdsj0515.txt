@@ -33,6 +33,9 @@ zybzk2688,http://cc.123.rr.kg/163189/tvbxh
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
+TVB Plus,http://167.88.62.43:64012/0.ts
+NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 无线新闻台,http://cc.123.rr.kg/163189/wxxw
