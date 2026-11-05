@@ -263,7 +263,10 @@ CGTN俄语,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm-SM99.php?token=36256f04
 发现之旅,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm-SM99.php?token=e3ea7e3796523bd406dd649b6a243b&i=0
 中学生,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm-SM99.php?token=f98aa5dd7481a3ccc61f9f89ed892b&i=0
 CGTN,http://smzb.bypbwxx.top/zhibo/shengma/zhibojm-SM99.php?token=5499b7a8a0ee2301a70afd5bbb9267&i=0
-
+CCTV-6电影,http://cfss.cc/cdn/dy/cctv6cinema.flv
+CCTV-10科教,http://cfss.cc/cdn/dy/66415451233..flv
+CCTV-13新闻,http://cfss.cc/cdn/dy/cctv_video.flv
+CCTV-13新闻,http://cfss.cc/cdn/dy/kuaikancctv.flv
 CCTV-1综合,http://ysp2345.lyyytv.cn/zhibo.php?id=608807420&token=DACEDBA47789
 CCTV-2财经,http://ysp2345.lyyytv.cn/zhibo.php?id=631780532&token=DACEDBA47789
 CCTV-3综艺,http://f.123.rr.kg/163189/cctv3
