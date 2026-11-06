@@ -4509,7 +4509,7 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 
 📻广东频道,#genre#
 广东珠江,http://47.96.12.149/live1/jsbv2b.m3u8?id=gdzj&app=cc.zztv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1793939468&sign=389c32ee7401040fb8f73103c55acf7c&ev=20250805
-
+广东体育,http://47.96.12.149/live1/jsbv1.m3u8?id=gdty&app=cc.zztv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1793942623&sign=71997a41146f4ed9b8b5472c381f13f6&ev=20250805
 广东影视,http://k.061899.xyz/k.php?id=gdys
 广东珠江,http://k.061899.xyz/k.php?id=gdzj
 广东民生,http://k.061899.xyz/k.php?id=gdms
