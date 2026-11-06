@@ -155,7 +155,7 @@ SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
 Sports-3',http://iptv.4666888.xyz/iptv2A.php?id=3
-珠江1111,http://121.40.201.125/live2/gdtv.m3u8?id=gdzj
+
 🌩️云南电信,#genre#
 CCTV-1HD,http://45.192.97.170:8880/play/1.m3u8
 CCTV-2HD,http://cg5.hunancatv.cn:9090/live/CCTV2_8000.m3u8?t=5EEF5%2FJD%2B7hNT6wCp6ahtA%3D%3D&u=HNTV01YU00005694&p=8&cid=10000002&pid=&l=1&d=7C525994CC54&ip=192.168.197.125&n=CCTV2_8000&errorcode=0&sid=ltCGr6p7%2BHzeu59%2BkWfKvQ%3D%3D&r=20240503194742&e=20240503234742&nc=KNefdiBhZ4mE&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=1503359536358273678&srchost=172.16.22.158:8060&gid=rnYyMQm3RY3kRTn%2FDW3Wrw%3D%3D
@@ -4508,14 +4508,7 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 北京财经,http://114.242.62.109:888/hls/21/index.m3u8
 
 📻广东频道,#genre#
-广东体育,kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
-广东体育,kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdty&pwd=jsdecode
-广东体育,kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtya&pwd=jsdecode
-广东体育,kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtya&pwd=jsdecode
-广东4K超高清,kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs3&pwd=jsdecode
-广东4K超高清,kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs3&pwd=jsdecode
-广东4K超高清,kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs3&pwd=jsdecode
-广东4K超高清,htmlplay://https://www.gdtv.cn/tvChannelDetail/16@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+广东珠江,http://47.96.12.149/live1/jsbv2b.m3u8?id=gdzj&app=cc.zztv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1793939468&sign=389c32ee7401040fb8f73103c55acf7c&ev=20250805
 
 广东影视,http://k.061899.xyz/k.php?id=gdys
 广东珠江,http://k.061899.xyz/k.php?id=gdzj
