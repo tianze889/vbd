@@ -262,6 +262,7 @@ CCTV-1综合,http://cfss.cc/cdn/dy/CCTV1.flv
 CCTV-2财经,http://cfss.cc/cdn/dy/nuanxinnengl.flv
 CCTV-2财经,http://cfss.cc/cdn/dy/yscjxmt.flv
 CCTV-6电影,http://cfss.cc/cdn/dy/cctv6cinema.flv
+CCTV-9纪录,http://cfss.cc/cdn/dy/25664317329.flv
 CCTV-10科教,http://cfss.cc/cdn/dy/66415451233..flv
 CCTV-13新闻,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV-13新闻,http://cfss.cc/cdn/dy/1606137427.flv
