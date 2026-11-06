@@ -155,7 +155,7 @@ SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
 Sports-3',http://iptv.4666888.xyz/iptv2A.php?id=3
-
+珠江1111,http://121.40.201.125/live2/gdtv.m3u8?id=gdzj
 🌩️云南电信,#genre#
 CCTV-1HD,http://45.192.97.170:8880/play/1.m3u8
 CCTV-2HD,http://cg5.hunancatv.cn:9090/live/CCTV2_8000.m3u8?t=5EEF5%2FJD%2B7hNT6wCp6ahtA%3D%3D&u=HNTV01YU00005694&p=8&cid=10000002&pid=&l=1&d=7C525994CC54&ip=192.168.197.125&n=CCTV2_8000&errorcode=0&sid=ltCGr6p7%2BHzeu59%2BkWfKvQ%3D%3D&r=20240503194742&e=20240503234742&nc=KNefdiBhZ4mE&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=1503359536358273678&srchost=172.16.22.158:8060&gid=rnYyMQm3RY3kRTn%2FDW3Wrw%3D%3D
