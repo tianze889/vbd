@@ -339,24 +339,6 @@ CCTV-13新闻,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV-13新闻,http://cfss.cc/cdn/dy/1606137427.flv
 CCTV-13新闻,http://cfss.cc/cdn/dy/kuaikancctv.flv
 
-CCTV-1综合,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS
-CCTV-2财经,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?BR=td
-CCTV-3综艺,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?BR=td
-CCTV-41中文国际,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td
-CCTV-5体育,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?BR=td
-CCTV-6电影,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?BR=td
-CCTV-7国防军事,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
-CCTV-8电视剧,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=td
-CCTV-9纪录,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?BR=td
-CCTV-10科教,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?BR=td
-CCTV-11戏曲,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv11_1_720P/playlist.m3u8?wsApp=HLS
-CCTV-12社会与法,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?BR=td
-CCTV-13新闻,https://ldncctvwbcdks.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?BR=td
-CCTV-14少儿,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8?BR=td
-CCTV-15音乐,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?BR=td
-CCTV-16奥运,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv16_1/index.m3u8?BR=td
-CCTV-17农业农村,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8?BR=td
-
 CCTV-1综合,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-2财经,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-3综艺,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
