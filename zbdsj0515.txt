@@ -5096,7 +5096,7 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 岷县综合,https://play.kankanlive.com/live/1722561653629309.m3u8
 
 📺江苏频道,#genre#
-优漫卡通,http://14.204.32.194:6410/00000003/2/H_YMKT?virtualDomain=00000003.live_hls.zte.com
+
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻,http://36.137.190.15:5021/live_hls/1/playlist.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
@@ -5104,6 +5104,17 @@ X战警系列电影,http://8.155.43.98:35455/yy/1382736893
 苏州文化生活,http://36.137.190.15:5021/live_hls/3/playlist.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+无锡新闻综合,https://stream.thmz.com/wxtv1/playlist.m3u8?_upt=6c329b741794229311
+无锡新闻综合,https://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=94aab09e1794229310
+无锡都市资讯,https://stream.thmz.com/wxtv3/playlist.m3u8?_upt=3060a1091794229532
+无锡都市资讯,https://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=e7a557781794229532
+无锡娱乐频道,https://stream.thmz.com/wxtv2/playlist.m3u8?_upt=2b83e71f1794229589
+无锡娱乐频道,https://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=2ae7485f1794229589
+无锡经济频道,https://stream.thmz.com/wxtv5/playlist.m3u8?_upt=e95555391794229643
+无锡经济频道,https://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=f584a10f1794229640
+无锡生活频道,https://stream.thmz.com/wxtv4/playlist.m3u8?_upt=bfb309341794229689
+无锡生活频道,https://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=293ff4211794229687
+优漫卡通,http://14.204.32.194:6410/00000003/2/H_YMKT?virtualDomain=00000003.live_hls.zte.com
 徐州新闻,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
