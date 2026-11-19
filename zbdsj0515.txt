@@ -383,7 +383,7 @@ CCTV-15音乐,http://140.210.14.201:1100/ys.php?id=cctv15
 CCTV-16奥林匹克,http://140.210.14.201:1100/ys.php?id=cctv16
 CCTV-17农业农村,http://140.210.14.201:1100/ys.php?id=cctv17
 
-CCTV-1综合,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV-1综合,http://116.52.233.90:30080/01000200/01000000000000000000000001825531/index.m3u8?zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=PtMnUlK1XxJzkXcnHGZP8ux2rloWnwgvr%2Bn7%2FA0KReo%2B6x3vrx6GT7gUtKzyJlxJnCy3pFTpprKM77zMpKrpaA%3D%3D&accountinfo=%2C%2C116.54.32.236%2C20261119163546%2C00000001000000050000000000000152%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001825531%2CEND&GuardEncType=2&Playtype=1
 CCTV-2财经,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-3综艺,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 CCTV-4中文国际,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
